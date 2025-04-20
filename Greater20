@@ -1,389 +1,737 @@
 ,Link,Item Code,Desc,Item Group,Price,Price Type,Last Purchase Rate
-2,00696ac98f,E586,"FUJI OM Touch COP Full Black Glass with LED Display Capacity 6 Person, Load 450Kg, 3 Floor (G,1,2)(for Monarch) (MCTC-CCB-A) (MCTC-CPL-0030-DB9)",COP,68.482,Purchase Price,0.0
-3,00e3241f40,SSH111,SS SHEET G304 (1219X2438X0.8mm) GOLD MIRROR,SS SHEET,22.3375,Purchase Price,0.0
-7,01d5e4bb7c,FC228,MARBLE MUGHALA WHITE 135.5 X 116 X 2CM ,MARBLE,65.0,Purchase Price,65.0
-15,03774b431a,FC229,MARBLE BLACK GALAXY 140.5X111X2CM ,MARBLE,64.0,Purchase Price,64.0
-16,038bfd5b25,FC244,MARBLE PIE WHITE 151X131X2CM ,MARBLE,38.0,Purchase Price,38.0
-17,039908a1ac,RM255,SS SHEET 1.5MM X 4X8FT GR304 BROWN HAIRLINE ,SS SHEET,33.946,Purchase Price,33.946
-19,03b6d749a6,LP262,MS 2 Landing Panel Center Opening Silver Hairline 900X2100,ME-CENTER 900,46.2,Purchase Price,46.2
-22,04a7f8f057,RM219,SS SHEET G304 0.8MM SILVER MIRROR FINISH 4X8' ETC-1076 ,SS SHEET,53.0,Purchase Price,53.0
-24,05d47698b3,E311,"Italex COP Full Black Glass Capacity 7 Person, Load 560KG, 7 Floor (G,1,2,3,4,5,6)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,79.8327,Purchase Price,0.0
-25,061051643d,FR227,MS 2 Landing Panel Left Opening Silver Hairline 1300X40X120X2100 Frame ,ME-LEFT 1300,21.56,Purchase Price,21.56
-27,079c70a054,FC264,MARBLE TUNDRA GREY 101X121X2CM ,MARBLE,54.0,Purchase Price,54.0
-32,09ad351558,LP233,MS 2 Landing Panel Right Opening Silver Hairline 800X2100,ME-RIGHT 800,53.9,Purchase Price,53.9
-36,0a572cad77,E312,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 10 Floor (B,G,1,2,3,4,5,6,7,8)(for Monarch) (BCG401, A4M82153) without indicator",EL-COP,79.8327,Purchase Price,0.0
-37,0abc3f659f,LM162,MS 2 Panel Landing Mechanism Left Opening 1300mm ,ME-LEFT 1300,38.5,Purchase Price,38.5
-39,0c4ba5bed2,FC212,MARBLE TUNDRA GREY 131X120.5X2CM ,MARBLE,68.0,Purchase Price,68.0
-45,0d31011c39,FC281,MARBLE MUGALA WHITE 103.5X95X2CM ,MARBLE,43.0,Purchase Price,43.0
-46,0d5d53eaa4,MK483,"ZIEHL-ABEGG, ZAtop SM20015D-20 GEARLESS MACHINE 630KG, 168 RPM, 360V, 250NM, 4.4KW, 13A, BRAKE 207 VDC MICRO SWITCH, PULLEY 240 X 7 X 6.5-10 (240MM PULLEY, 7 CORE, 6.5MM STEEL ROPE) HEIDENHAIN ECN-1313 ENCODER  ",ME-MOTOR,885.7,Purchase Price,885.7
-49,0dd9a119a0,FC217,MARBLE MUGHALA WHITE 131X120.5X2CM ,MARBLE,68.0,Purchase Price,66.0
-53,0ee862c09e,FC300,MARBLE DARK EMPERADOR 120.5X111X2CM ,MARBLE,62.0,Purchase Price,62.0
-59,0fd2271c24,C351,POWDER PAINT BLACK GLOSSY (PT-9005 G) 20KG ,POWDER PAINT,25.0,Purchase Price,24.0
-60,104240a66f,MK174,"MDX26S Montanari C (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC380V, 11.9A, 3.43KW, Brake DC110V, Pulley 240-5X8-12 (240mm Steel Pulley, 5 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,444.879036,Purchase Price,441.8893
-62,10bdf05ca6,HY123,"Hydraulic All Electrical item for 3 STOP (Conroller, UPS, All Wires, LOPs, Limit Switch, Display, Sensor, Micro Switch and misc items)",HY-GENERAL,197.249364,Purchase Price,0.0
-63,10c9df2e59,LP239,KS 2 Landing Panel Center Opening Silver Hairline 700X2100,ME-CENTER 700,46.2,Purchase Price,46.2
-65,10e4837d36,FC241,MARBLE VIETNAM WHITE 121X130.5X2CM ,MARBLE,73.0,Purchase Price,73.0
-66,10ed49d286,E303,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 5 Floor (G,1,2,3,4)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-69,11ebcedcad,FC288,MARBLE BLACK GALAXY 101X94.5X2CM ,MARBLE,48.0,Purchase Price,48.0
-72,123d649920,HY217,MOTOR 3PH 5.5HP 1400RPM (MAKE:-GUANGLU) ,ME-MOTOR,94.285,Purchase Price,94.285
-77,12d5f5dc5a,LP221,KS 2 Landing Panel Center Opening Powder Coating 900X2100,ME-CENTER 900,21.56,Purchase Price,21.56
-78,12eab4e358,C381,"WELDING WIRE 1.00MM X 15KG FOR MS PLATE & STAINLESS STEEL 2MM, 3MM & 4MM ",MIG WELDING WIRE,24.093,Purchase Price,24.0933
-80,1357cb9a3a,MK519,"STEEL BELT PULLEY WITH SHAFT 3 CORE X 101MM-65MM, SUITABLE FOR ZIEHL-ABEGG MOTOR (ZLW36784 BD132.35 ZATOPX ) ",PULLEY,24.598,Purchase Price,24.598
-82,13c0a8ed0a,SSH112,SS SHEET G304 (1219X2438X1.2mm) GOLD MIRROR,SS SHEET,30.7505,Purchase Price,0.0
-84,13e62cea94,E301,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 4 Floor (B,G,1,2)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-86,149fa0984e,MK161,"MQ270 FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 0.40M/S, Ratio 1:1, AC380V, 11.5A, 4KW, Brake DC110V, Pulley 270-2X8 (270mm Steel Pulley, 2 Core, 8mm Steel rope diameter) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch), Travel Limit 10 meter ",ME-MOTOR,701.919144,Purchase Price,0.0
-89,14c47c67bb,OP226,KS 2 Panel Glass Car Operator Center Opening 700mm,ME-CENTER 700,75.845,Purchase Price,75.845
-90,14e28aa6da,LP194,MS 2 Landing Panel Left Opening Silver Hairline 1300X2100 ,ME-LEFT 1300,61.6,Purchase Price,61.6
-92,16426c533f,FC289,MARBLE TUNDRA GREY 120.5X127X2CM ,MARBLE,68.0,Purchase Price,68.0
-93,167e1bcc86,CP212,MS 2 Car Panel Center Opening Silver Mirror 750X2100,ME-CENTER 750,47.355,Purchase Price,47.355
-95,16b1061d79,E791,CONTROLLER MAIN BOARD FOR AFP 12.5KW (EC16CES-64) ,EL-PART ITEM,25.996,Purchase Price,25.996
-97,172d08f22a,FC258,MARBLE KASHMIR WHITE 121.5X130.5X2CM ,MARBLE,68.0,Purchase Price,68.0
-102,17fa83b7ff,E623,"FUJI OM Monarch Controller (Medium) NICE 3000 (NICE-L-C-4015) AC380V, 15KW WITH PGE CARD ",EL-CONTROLLER,339.978,Purchase Price,339.978
-103,1800429844,LP268,MS 2 Landing Panel Center Opening Silver Hairline 800X2100,ME-CENTER 800,46.2,Purchase Price,46.2
-107,18f3596614,MK185,"MGV25M-MGV25151923B700 Montanari (MRL) Gearless Machine Load 800KG, Speed 1.0M/S, Ratio 2:1, AC360V, 20A, 7.7KW, Brake DC207V, Pulley 240-7X6.5-12 (240mm Steel Pulley, 7 Core, 6.5mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,887.1156,Purchase Price,0.0
-108,18fc423fc4,E507,"AntiCreep Electromagnetic Device 70-50KN, 220V ",EL-SAFETY,22.661316,Purchase Price,0.0
-110,19bc9fa1f8,RM282,SS SHEET G304 (1.5mm X 1219 X 2438mm) SILVER HAIRLINE ,SS SHEET,78.03,Purchase Price,30.0416
-112,19e67d9812,MK159,"FAXI-268H FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 0.40M/S, Ratio 1:1, AC380V, 11.5A, 4KW, Brake DC110V, Pulley 270-2X8 (270mm Steel Pulley, 2 Core, 8mm Steel rope diameter) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch), Travel Limit 10 meter ",ME-MOTOR,681.719256,Purchase Price,0.0
-114,1aa66f07c7,C326,POWDER PAINT PE-SUPER MATT BLACK 20KG PT-9005 EMT ,POWDER PAINT,28.0,Purchase Price,28.0
-115,1b331cfd2d,MK386,Automatic Swing Door for homelift Flat Type panel 750x2000mm with Frame 27mm (Door Hole - 900x2210mm),AUTO SWING DOOR,240.625,Purchase Price,0.0
-117,1b75019d96,E318,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 5 Floor (G,1,2,3,4)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-118,1b8144a592,RM252,SS SHEET 1.5MM X 4X8FT GR304 BLACK MIRROR ,SS SHEET,36.525,Purchase Price,36.525
-119,1cc9cf9947,MK374,"Safety Gear Set (L/R) 1.0M/S, Capacity 2250Kg, 16mm for T16/T90",SAFETY,31.016,Purchase Price,31.016
-120,1cd68d2fcb,E259,ARKEL ARCUBE Controller MRL 26A 11K.W 3X400V Drive (Medium) (1005065),EL-CONTROLLER,434.8908,Purchase Price,0.0
-123,1dbcf5fd50,C330,TARPOLIN ORANGE/GREY 40X40' ,TARPOLIN,48.5,Purchase Price,48.5
-128,1e28a0277f,E319,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 6 Floor (B,G,1,2,3,4)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-130,1e949d1d1b,FC263,MARBLE TUNDRA GREY 111X140.5X2CM ,MARBLE,66.0,Purchase Price,66.0
-131,1ee25e05f1,LP223,KS 2 Landing Panel Right Opening Powder Coating 900X2100,ME-RIGHT 900,23.87,Purchase Price,23.87
-134,1f4173b0e2,RM288,POLYCARBONATE SHEET CLEAR 4MM X 3050 X 2050MM ,POLYCARBONATE SHEET,45.0,Purchase Price,45.0
-139,20404cbd73,FC233,MARBLE OMANI 100.5X91X2CM ,MARBLE,30.0,Purchase Price,30.0
-142,20847f23c1,E468,HEIDENHAIN Encoder ERN-1387-2048-62S14-70,EL-PART ITEM,54.571284,Purchase Price,0.0
-144,2109da6b43,LP271,MS 2 Landing Panel Center Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-CENTER 800,109.725,Purchase Price,109.725
-145,2178994118,E295,"Italex COP Full Black Glass Capacity 4 Person, Load 320KG, 3 Floor (G,1,2)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-147,2181e67693,MK453,"Safety Gear Set OX210A (L/R) 1.0M/S, Capacity 1800Kg, 16mm for T16/T90 ",SAFETY,31.016,Purchase Price,31.016
-148,21b7e1b888,RM218,SS SHEET G304 0.8MM GOLD MIRROR FINISH 4X8' ETC-1076 ,SS SHEET,65.0,Purchase Price,65.0
-150,233efcbfb9,E299,"Italex COP Full Black Glass Capacity 5 Person, Load 400KG, 5 Floor (G,1,2,3,4)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-152,23c1743d4c,RM202,SS SHEET G304 (1219X2438X1.5mm) GOLD MIRROR,SS SHEET,35.032,Purchase Price,35.032
-154,241dabde31,MK482,"ZIEHL-ABEGG, ZAtop SM13221/B GEARLESS MACHINE 450KG, 258 RPM, 360V, 120NM, 3.2KW, 10A, BRAKE 207 VDC MICRO SWITCH, WITH HAND RELEASE (WITHOUT BOWDEN CABLE) PULLEY 200 X 5 X 6.5-10 (200MM PULLEY, 5 CORE, 6.5MM STEEL ROPE) HEIDENHAIN ECN-1313 ENCODER ",ME-MOTOR,877.625,Purchase Price,877.625
-157,24c4d7cd88,FR323,KS 2 Landing Panel RIGHT Opening Silver Hairline 700X40X120X2100 Frame,ME-RIGHT 700,20.405,Purchase Price,20.405
-158,2507e33074,MK178,"MONA200-630/1.0C FUJI OM (MRL) Gearless Machine Load 630KG, Speed 1.6M/S, Ratio 2:1, AC380V, 16A, 6.8KW, Brake DC110V, Pulley 320-5X8-12 (320mm Steel Pulley, 5 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,345.547512,Purchase Price,0.0
-169,2725202dfc,C335,POWDER PAINT PE GLOSSY WHITE 20KG PT-9003 G ,POWDER PAINT,28.0,Purchase Price,27.0
-174,28a1da06ff,E294,"Italex COP Full Black Glass Capacity 4 Person, Load 320KG, 2 Floor (G,1)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-177,29438f0622,RM269,MDF SHEET 18MM & CUTTING ,MDF BOARD,28.0,Purchase Price,28.0
-178,296ee9c57a,SSH142,SS SHEET G304 (1219X2438X0.8mm) SILVER MIRROR LINE AM2235,SS SHEET,27.3492,Purchase Price,0.0
-179,29c9242bc1,RM263,SS SHEET G304 (1219 X 2438 X 0.8mm) ETCHED GOLD MIRROR HTC-1019 ,SS SHEET,68.0,Purchase Price,68.0
-180,2a04e90300,LP227,MS 2 Landing Panel Center Opening Gold Mirror 900X2100,ME-CENTER 900,50.05,Purchase Price,50.05
-189,2d53d10432,E314,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 12 Floor (G,1,2,3,4,5,6,7,8,9,10,11)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-191,2d99334ecf,FC226,PANDA WHITE 111 X 100.5 X 2CM ,MARBLE,48.0,Purchase Price,48.0
-192,2dce9ab522,RM254,SS SHEET 1.5MM X 4X8FT GR304 BROWN MIRROR ,SS SHEET,36.633,Purchase Price,36.633
-196,2e5755be0c,E668,"DUMBWAITER CONTROLLER 2 FLOORS(G+1) WITH ALL RELATED PARTS (INCLUDING LOP, CABLES, FITTINGS, SENSOR ETC) WITH RED DOT-MATRIX DISPLAY FOR LOP ",EL-CONTROLLER,111.977,Purchase Price,111.977
-204,2fd50a3249,FC227,MARBLE OMANI 141 X 111 X 2CM ,MARBLE,49.0,Purchase Price,49.0
-207,3010c1daa7,FC213,MARBLE MUGHALA WHITE 140.5X111X2CM ,MARBLE,66.0,Purchase Price,66.0
-212,313af3406f,E256,"MONARCH HONOR TYPE CONTROLLER MRL 5.5KW, 13A, AC 380V (NICE900V-4013P) WITH ARD Function ",EL-CONTROLLER,341.795664,Purchase Price,0.0
-215,3208b663e2,LP285,KS 2 Landing Panel RIGHT Opening Silver Hairline 700X2100,ME-RIGHT 700,46.2,Purchase Price,46.2
-218,32cc7aa8d7,C380,POWDER PAINT PE-GLOSSY (FT-1015G) 1X20KG ,POWDER PAINT,27.0,Purchase Price,27.0
-219,32f1621c9d,E257,5.5KW HONOR TYPE CONTROLLER MRL (Small),EL-CONTROLLER,333.841284,Purchase Price,0.0
-221,3367cee65a,E262,"FUJI OM Monarch Controller (Medium) NICE 3000 (NICE-L-C-4011) AC380V, 11KW",EL-CONTROLLER,322.728264,Purchase Price,317.985
-222,339a349556,RM201,SS SHEET G304 (1219X2438X1.2mm) GOLD MIRROR,SS SHEET,26.126,Purchase Price,26.126
-223,33a0456a0b,OP168,MS 2 Panel Car Operator Left Opening 1300mm ,ME-LEFT 1300,119.35,Purchase Price,119.35
-224,34524ad357,CP187,MS 2 Car Panel Right Opening Powder Coating 800X2100 ,ME-RIGHT 800,22.715,Purchase Price,22.715
-227,34c867d34a,E320,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 6 Floor (G,1,2,3,4,5)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-229,34ffb98256,E663,"DUMB WAITER CONTROL CABINET WITH MICRO COMPUTER CONTROL 2.2KW, 380V ",EL-CONTROLLER,82.5,Purchase Price,82.5
-231,359f3a47b7,E740,"Shaft Encoder New Type With Both Side confirmation (Shaft Optical scale, with Liner Encoder, Code Belt and Spare Parts) Monarch ",EL-GENERAL,65.184,Purchase Price,65.184
-232,35b363b3ea,MK299,"AODEPU Over Speed Governor 1.6M/S, UP side MRL (Pulley 240mm-8mm wire diameter)",ME-SAFETY,49.367232,Purchase Price,0.0
-236,35f91975d0,MK158,"FAXI-268 FUJI OM (MRL) Gearless Machine Load 900KG, Speed 0.40M/S, Ratio 1:1, AC380V, 10.4A, 3.6KW, Brake DC110V, Pulley 270-2X8 (270mm Steel Pulley, 2 Core, 8mm Steel rope diameter) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch), Travel Limit 10 meter ",ME-MOTOR,681.719256,Purchase Price,0.0
-237,3624901193,LM208,MS 2 Panel Glass Landing Mechanism Center Opening 800mm,ME-CENTER 800,23.1,Purchase Price,23.1
-239,36c441e2f8,E297,"Italex COP Full Black Glass Capacity 5 Person, Load 400KG, 2 Floor (G,1)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-241,36cf0c79e0,RM235,SS SHEET G304 0.8MM ETCHED SILVER MIRROR 4X8' HTC-1089 ,SS SHEET,45.0,Purchase Price,68.0
-244,37622ccd80,E317,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 5 Floor (B,G,1,2,3)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-246,37c8f7ee8b,RM112,MS SHEET 4MM x 1220 x 2440MM (4mm x 4 x 8Ft),MS SHEET,24.0,Purchase Price,23.5
-247,37dff0a151,RM172,SS SHEET G304 (1219X2438X0.8mm) SILVER MIRROR FINISH HTC-1081 ,SS SHEET,46.0,Purchase Price,46.0
-250,388fba4e67,OP223,KS 2 Panel Glass Car Operator Center Opening 800mm,ME-CENTER 800,74.305,Purchase Price,74.305
-255,3972a3483a,FC250,MARBLE PANDA WHITE 135.5X111X2CM ,MARBLE,64.0,Purchase Price,64.0
-257,39863b63e9,LP237,KS 2 Landing Panel Center Opening Silver Hairline 800X2100,ME-CENTER 800,46.2,Purchase Price,46.2
-260,39e570b49f,FC218,MARBLE SPECIAL DESIGN 131X160.5CM ,MARBLE,150.0,Purchase Price,150.0
-261,3a603715e4,E342,Automatic Enterance Door operator for drum lift,EL-GENERAL,47.51442,Purchase Price,0.0
-265,3b7e142a38,MK385,Automatic Swing Door for homelift Flat Type panel 800x2000mm with Frame 52mm (Door Hole - 1000x2210mm),AUTO SWING DOOR,240.625,Purchase Price,0.0
-271,3d2b47512d,E361,"Shaft Encoder (Absolute Shaft Optical scale, with Liner Encoder, Code Belt and Spare Parts, Type ELA30N) Monarch/Turkey) ",EL-GENERAL,68.322,Purchase Price,68.3221
-274,3df3db95a7,C185,CO2 REGULATOR WITH 220V HEATER,CO2 REGULATOR,48.0,Purchase Price,48.0
-278,3e3e0991f0,MK165,"FAXI200-1 FUJI OM (MRL) Gearless Machine Load 450KG, Speed 1.0M/S, Ratio 1:1, AC380V, 8A, 3KW, Brake DC110V, Pulley 200-5X8-12mm (200mm Pulley, 5 Core, 8mm Steel rope, 12mm Core distance, Center Position) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,455.541372,Purchase Price,407.722
-281,3f8d8e4d32,LP222,KS 2 Landing Panel Center Opening Silver Hairline 900X2100,ME-CENTER 900,46.2,Purchase Price,46.2
-287,415b985fb2,E267,"Itelax Monarch Controller (Medium) NICE 3000 (NICE-L-C-4011) AC380V, 11KW",EL-CONTROLLER,142.508592,Purchase Price,315.531
-289,4198130a1c,CP188,MS 2 Car Panel Left Opening Silver Hairline 1300X2100 ,ME-LEFT 1300,61.6,Purchase Price,61.6
-299,43d9c2ae0b,OP178,KS 2 Panel Glass Car Operator Center Opening 900mm,ME-CENTER 900,75.46,Purchase Price,75.46
-300,442f137571,E291,"FUJI OM Touch COP Full Black Glass with LED Display Capacity 6 Person, Load 450KG, 2 Floor (G,1)(for Monarch) (MCTC-CCB-A) (MCTC-CPL-0030-DB9)",EL-COP,141.06024,Purchase Price,0.0
-301,444819ffad,RM281,SS SHEET G304 (1.2mm X 1219 X 2438mm) SILVER HAIRLINE ,SS SHEET,60.36,Purchase Price,23.2386
-302,4479d31612,LP276,MS 2 Landing Panel Center Opening Silver Hairline 700X2100,ME-CENTER 700,46.2,Purchase Price,46.2
-303,447f90f884,RM161,SS SHEET G304 (1219X2438X1.2mm) SILVER HAIRLINE,SS SHEET,34.0,Purchase Price,34.0
-306,450640c124,FC249,MARBLE TUNDRA GREY 120.5X111X2CM ,MARBLE,59.0,Purchase Price,59.0
-308,45391addba,RM228,CHROME BAR 2.15MTR  ,CHROME BAR,113.95,Purchase Price,109.524
-309,456bb18b31,RM160,SS SHEET G304 (1219X2438X0.8mm) SILVER HAIRLINE,SS SHEET,23.0,Purchase Price,22.5
-311,459314375a,FC239,MARBLE BLACK GALAXY 146X117X2CM ,MARBLE,71.0,Purchase Price,71.0
-313,4645901528,FC278,MARBLE VIETNAM WHITE 140.5X111X2CM ,MARBLE,72.0,Purchase Price,72.0
-318,479b2a73e5,C197,MIG WELDING WIRE SET,MIG WELDING WIRE SET,22.6,Purchase Price,22.6
-322,48700a3b22,E304,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 6 Floor (B,G,1,2,3,4)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-323,4a4d8bb7f7,OP208,MS 2 Panel Car Operator Center Opening 800mm,ME-CENTER 800,98.175,Purchase Price,98.175
-327,4ad0072044,E310,"Italex COP Full Black Glass Capacity 7 Person, Load 560KG, 6 Floor (B,G,1,2,3,4)(for Monarch) (BCG401, A4M82153) without Indicator",EL-COP,79.8327,Purchase Price,0.0
-329,4b27fda0a5,FC299,MARBLE DARK EMPERADOR 108X81X2CM ,MARBLE,44.0,Purchase Price,44.0
-333,4c1154fea6,FC296,MARBLE DARK EMPERADOR 111X110.5X2CM ,MARBLE,59.0,Purchase Price,59.0
-334,4c47d5a8f4,LM200,MS 2 Panel Landing Mechanism Left Opening 800mm,ME-LEFT 800,29.645,Purchase Price,29.645
-340,4d8cabd1fe,E300,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 3 Floor (G,1,2)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,66.208
-341,4db961c157,C352,POWDER PAINT 9005 SS 20KG ,POWDER PAINT,35.0,Purchase Price,35.0
-345,4e08889c49,RM286,POLYCARBONATE SHEET CLEAR 4MM X 3050 X 2050MM ,POLYCARBONATE SHEET,85.0,Purchase Price,85.0
-346,4e08d3e9ff,LM201,MS 2 Panel Glass Landing Mechanism Left Opening 800mm,ME-LEFT 800,33.495,Purchase Price,33.495
-353,4f124a8674,CP209,MS 2 Car Panel Center Opening Gold Mirror 900X2100,ME-CENTER 900,53.515,Purchase Price,53.515
-357,50053a74fa,E612,ARKEL ARCODE 4B17A INTEGRATED ELEVATOR CONTROL UNIT (INVERTER) ,PART ITEM,226.676,Purchase Price,226.676
-359,5011a7bebd,MK306,ERKAN Car Up Side Safety Gear 9mm 1400KG 2.16 M/S LEFT and RIGHT for T70/T9 Guide Rail,ME-SAFETY,26.18,Purchase Price,26.18
-364,52f4bdf764,HY122,"Hydraulic All Electrical item for 2 STOP (Conroller, UPS, All Wires, LOPs, Limit Switch, Display, Sensor, Micro Switch and misc items)",HY-GENERAL,186.37902,Purchase Price,0.0
-366,5333049c7e,E339,QYW230312123 TFT LCD for COP display 500mm 24V Parallel system 7 segment,EL-DISPLAY,26.798364,Purchase Price,0.0
-368,5355444b8c,RM240,MFC BOARD COGNAC KENDAL OAK 2800 X 2070 X 18MM ,MDF BOARD,30.5,Purchase Price,30.48
-369,536bf01076,E270,"Itelax Monarch Controller NICE 3000 (NICE-L-C-4007) AC380V, 7.5KW",EL-CONTROLLER,309.962736,Purchase Price,303.54
-376,56212e1fbf,FC231,MARBLE BLACK GALAXY 131X117.5X2CM ,MARBLE,64.0,Purchase Price,64.0
-381,5688d1c509,MK184,"MGV25S-MGV25101923B500 Montanari (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC360V, 14.5A, 5KW, Brake DC207V, Pulley 240-6X6.5-12 (240mm Steel Pulley, 6 Core, 6.5mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,729.5688,Purchase Price,0.0
-382,56c7476ade,LP315,KS 2 Landing Panel Center Opening (Glass) Silver Mirror 700X2100 (Frame Type) ,ME-CENTER 700,96.25,Purchase Price,96.25
-385,57910a6530,FC295,MARBLE BLACK ABSOLUTE 131X120.5X2CM ,MARBLE,74.0,Purchase Price,74.0
-386,5792215459,E356,MCTC-CTB-A Car TOP Box for HONOR/MONACRCH type (small pin &amp; socket) (Revition BOX),EL-REVISION BOX,32.044,Purchase Price,31.185
-387,57ac35ff6a,MK451,"Safety Gear Set OX210A (L/R) 1.0M/S, Capacity 1500Kg, 16mm for T16/T90 ",SAFETY,31.016,Purchase Price,31.016
-388,57c66683e8,MK304,"Electromagnatic Safety Gear Set (L/R) 0.4M/S, Capacity 600KG - 1600KG, 5mm (For Drum Lift, T5) ",ME-SAFETY,61.100424,Purchase Price,50.6006
-396,59714786b0,OP207,MS 2 Panel Glass Car Operator Center Opening 800mm,ME-CENTER 800,98.175,Purchase Price,98.175
-398,5a44731149,CP248,MS 2 Car Panel Center Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-CENTER 800,99.715,Purchase Price,99.715
-399,5a5674908c,MK173,"MDX36S Montanari C (MRL) Gearless Machine Load 1600KG, Speed 1.0M/S, Ratio 2:1, AC380V, 26.7A, 10.2KW, Brake DC110V, Pulley 320-10X8-17 (320mm Steel Pulley, 10 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,1066.707396,Purchase Price,0.0
-402,5aa5515bf1,RM115,MS SHEET 8MM x 1220 x 2440MM (8mm x 4 x 8Ft),MS SHEET,50.0,Purchase Price,48.0
-405,5b27df094b,C345,POWDER PAINT POLYSTER GREY GLOSSY 20KG RAL7004 ,POWDER PAINT,28.571,Purchase Price,28.571
-406,5b99d4ba47,CP251,MS 2 Car Panel Center Opening Silver Mirror 700X2100,ME-CENTER 700,47.355,Purchase Price,47.355
-412,5cf729c7d6,MK170,"MDX26HS Montanari C (MRL) Gearless Machine Load 450KG, Speed 1.0M/S, Ratio 2:1, AC380V, 7.3A, 2.86KW, Brake DC110V, Pulley 240-4X8-12 (240mm Steel Pulley, 4 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,381.348,Purchase Price,381.15
-417,5e3fef1eee,TL151,SATA AIR WRENCH ,AIR WRENCH,34.65,Purchase Price,34.65
-420,5e86087b5d,FC280,MARBLE TUNDRA GREY 108X92X2CM ,MARBLE,44.0,Purchase Price,44.0
-421,5e9f168f86,OP221,KS 2 Panel Car Operator Left Opening 700mm,ME-LEFT 700,79.695,Purchase Price,79.695
-427,5f53c69fa6,CP285,KS 2 Car Panel Left Opening (Glass) Silver Mirror 800X2100 (Frame Type) ,ME-LEFT 800,100.1,Purchase Price,100.1
-436,61199c853a,C354,"POWDER PAINT 7024 TXB, 20KG ",POWDER PAINT,21.5,Purchase Price,21.5
-437,614f8a5c6d,FC243,MARBLE TUNDRA GREY 111X110.5X2CM ,MARBLE,57.0,Purchase Price,57.0
-440,61f61f1091,MK151,"MF 1 PRO E AKIS (MR) Geared Machine Load 800KG, Speed 1.0M/S, Ratio 1:1, AC440V, 15.5A, 7.5KW, Brake DC198V, Pulley 425-5X10-15 (425mm Steel Pulley, 5 Core, 10mm Steel rope) FNC-50HD 1024 Encoder, with Hand brake &amp; encoder wire",ME-MOTOR,344.754,Purchase Price,0.0
-441,623fed4779,RM159,SS SHEET G304 (1219X2438X1.2mm) BLACK MIRROR CHINA,SS SHEET,26.893,Purchase Price,26.893
-443,62be1e499a,CP253,MS 2 Car Panel Center Opening Powder Coating 700X2100,ME-CENTER 700,23.485,Purchase Price,23.485
-446,63167a84d9,MK474,"3 PHASE INDUCTION MOTOR MODEL:- PM1A, 112M4A, B3 (4KW) 420V, 50HZ 4P ",ME-MOTOR,140.0,Purchase Price,140.0
-447,632285a7cb,RM262,"SS SHEET GR304, 0.8MM X 4X8' SILVER BRUSH FINISH ",SS SHEET,22.0,Purchase Price,21.5
-453,6446ed29d3,MK540,"Over Speed Governor 0.3M/S, UP side MRL (Pulley 150mm-6mm wire diameter) ",ME-SAFETY,29.0406,Purchase Price,0.0
-454,64641c4bcf,E736,"Italex COP Full Black Glass + Hairline, Capacity 8 Person, Load 630KG, 2 Floor (G,1) (for Monarch) (BCG401) (R630 White Light) ",EL-COP,66.208,Purchase Price,66.208
-455,6477dfb67a,MK485,"ZIEHL-ABEGG, ZAtop BD13221/B GEARLESS MACHINE 630KG, BELT MOTOR, 384 RPM, 360V, 105NM, 4.2KW, 11A, BRAKE 207 VDC MICRO SWITCH, WITH HAND REALEASE (WITHOUT BOWDEN CABLE) PULLEY 103 X 3 X 1.7-58MM (103MM PULLEY, 3 CORE, BELT SIZE 1.7MM) HEIDENHAIN ECN-1313 ENDAT ENCODER ",ME-MOTOR,956.25,Purchase Price,956.25
-456,64aad84c88,FC245,MARBLE BLACK GALAXY 141X131.5X2CM ,MARBLE,71.0,Purchase Price,71.0
-461,65c131523b,RM285,POLYCARBONATE SHEET CLEAR 3MM X 20X50X3000MM (BOTH SIDE UV) ,POLYCARBONATE SHEET,45.0,Purchase Price,45.0
-462,65cfd8213e,TL127,"ANGLE GRINDER 4.5"" MAKITA (9557HNG)",ANGLE GRINDER,23.5,Purchase Price,22.5
-463,6615cfb203,MK179,"MONA320-800/1.0 FUJI OM (MRL) Gearless Machine Load 800KG, Speed 1.0M/S, Ratio 2:1, AC380V, 13A, 5.4KW, Brake DC110V, Pulley 320-6X8-12 (320mm Steel Pulley, 6 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,427.795416,Purchase Price,0.0
-469,669fcfba4e,MK443,"GETM2.0T 100/630, ITALEX (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC380V, 4KW, 11AMP, Brake DC110V, Belt Pulley 100X3 (100mm Belt Pulley, 3 Core) Heidenhan ERN-1387 Encoder With Encoder wire ",ME-MOTOR,395.695,Purchase Price,395.695
-475,684a17427a,MK290,"AODEPU Over Speed Governor 0.4M/S, DOWN side MRL Drum Lift (Pulley 150mm-6mm wire diameter)",ME-SAFETY,22.9405,Purchase Price,10.0764
-477,6970944626,MK447,"HC90Z, GEAR MACHINE MOTOR, LOAD 200KG, SPEED 0.4M/S, 1.5KW, STEEL 6MMX2 ",ME-MOTOR,148.036,Purchase Price,148.036
-480,69b283e4b5,LP234,MS 2 Landing Panel Center Opening Silver Mirror 900X2100,ME-CENTER 900,46.2,Purchase Price,46.2
-481,6a56065d6b,FC232,MARBLE OMANI 101X107.5X2CM ,MARBLE,36.0,Purchase Price,36.0
-482,6a6af9b32f,CP242,MS 2 Car Panel Center Opening Silver Mirror 800X2100,ME-CENTER 800,47.355,Purchase Price,47.355
-483,6b7e11b85c,RM265,SS SHEET G304 (1219 X 2438 X 0.8mm) CHAMPAGNE HAIRLINE ,SS SHEET,43.0,Purchase Price,43.0
-486,6ce34b8889,E656,"FUJI PREMIUM Monarch Controller NICE 3000 (NICE-L-C-4007) AC380V, 7.5KW ",EL-CONTROLLER,301.193,Purchase Price,301.193
-493,6ece5b8ca3,E473,Monarch Inverter (Terminal Type) 7.5 KW Nice-3000 (Nice-L-H-4007) for Monarch Controller,EL-PART ITEM,137.2275,Purchase Price,0.0
-495,6f3dbc386d,RM264,SS SHEET G304 0.8MM ETCHED GOLD MIRROR 4X8' HTC-1089 ,SS SHEET,52.0,Purchase Price,52.0
-497,6f6cc56383,GR116,T70/B 5M-Elevator Guide Rails(T-9),GUIDE RAILS,23.634,Purchase Price,23.634
-498,6fe6a753c7,MK444,"MY07-B, FUJI PREMUIM, (MRL) Gearless Machine Load 1000KG, Speed 1.0M/S, Ratio 2:1, AC380V, 15A, 6.4KW, Brake DC110V, Pulley240x7x8-12mm (240mm steel Pulley, 7 Core) Heidenhan ERN-1387 Encoder With Encoder wire ",ME-MOTOR,348.752,Purchase Price,348.752
-499,6feed70533,E258,ARKEL ARCUBE Controller MRL 14A 5.5KW 3X400V Drive (BIG) (1005063),EL-CONTROLLER,395.6004,Purchase Price,0.0
-500,6ff92e08b9,CP203,KS 2 Car Panel Center Opening Silver Hairline 700X2100,ME-CENTER 700,45.045,Purchase Price,45.045
-501,7000a719dd,OP225,KS 2 Panel Car Operator Center Opening 800mm,ME-CENTER 800,74.305,Purchase Price,74.305
-502,70699cbce9,E114,EMK Automatic Rescue Device Charging Volt 220V Output AC380V adaption motor 18.5KW,EL-ARD,93.411,Purchase Price,80.85
-503,7096055b74,FGE154,"Hose Reel 30 Meter Manual Swinging, MS Red ",FIRE AND SAFETY,25.9875,Purchase Price,25.9875
-506,70eeed971a,HY143,PUMP STATION DIFU for 3 STOPS 3KW P+Q 800-1000KG 0.3M/S 3 Valves (Power Unit for Hydraulic),HY-GENERAL,175.955508,Purchase Price,0.0
-509,71df1e745d,OP206,MS 2 Panel Car Operator Center Opening 900mm,ME-CENTER 900,98.175,Purchase Price,98.175
-511,721e534e21,MK452,"Safety Gear Set OX210A (L/R) 1.0M/S, Capacity 1500Kg, 9mm for T9/T70 ",SAFETY,31.016,Purchase Price,31.016
-513,7274cdec8a,MK291,"AODEPU Over Speed Governor 0.4M/S, UP side MRL Drum Lift (Pulley 150mm-6mm wire diameter)",ME-SAFETY,22.9405,Purchase Price,34.4272
-515,73626b7b89,FC285,MARBLE MUGHALA WHITE 111X110.5X2CM ,MARBLE,54.0,Purchase Price,54.0
-520,74d2eea14c,FC291,MARBLE BROWN SPIDER 125X105.5X2CM ,MARBLE,58.0,Purchase Price,58.0
-522,74eddf3569,E293,"Italex COP Full Black Glass Capacity 10 Person, Load 800KG, 4 Floor (G,1,2,3)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,79.8327,Purchase Price,0.0
-525,752c876585,LP224,KS 2 Landing Panel Right Opening Silver Hairline 800X2100,ME-RIGHT 800,42.35,Purchase Price,42.35
-526,755f0c0ac2,CP205,KS 2 Car Panel Right Opening Powder Coating 800X2100,ME-RIGHT 800,20.405,Purchase Price,20.405
-530,75f8e92ae0,LP228,MS 2 Landing Panel Center Opening Powder Coating 900X2100,ME-CENTER 900,23.1,Purchase Price,23.1
-531,762de2cb7d,RM219,SS SHEET G304 0.8MM SILVER MIRROR FINISH 4X8' ETC-1076 ,SS SHEET,53.0,Purchase Price,53.0
-534,76cbd5d4b7,RM221,SS SHEET 0.8MM X 4X8Ft GR304 HL BRONZE ,SS SHEET,42.0,Purchase Price,42.0
-539,77bf35ec90,MK441,"ASANSOR Glass and White Folding Door two Sides Center Opening 800X750 with Car Operator, Fittings, Aluminum Sill ",ME-FULL,169.4,Purchase Price,169.4
-547,79cb965ff3,RM231,MDF BLACK BROWN THERMO OAK HT-1199 ST 12 (SIZE 2800 X 2070) ,MDF BOARD,30.5,Purchase Price,30.48
-549,7a6a945ef4,FC248,MARBLE VIETNAM WHITE 116X111X2CM ,MARBLE,60.0,Purchase Price,60.0
-554,7bffbd0396,MK176,"MONA200-450/1.0B FUJI OM (MRL) Gearless Machine Load 450KG, Speed 1.0M/S, Ratio 2:1, AC380V, 8A, 3KW, Brake DC110V, Pulley 240-4X8-12mm (240mm Pulley, 4 Core, 8mm Steel rope, 12mm Core distance) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,321.980976,Purchase Price,311.9617
-556,7c0e1acc53,LM218,KS 2 Panel Glass Landing Mechanism Left Opening 800mm,ME-LEFT 800,29.26,Purchase Price,29.26
-557,7c313d8207,OP216,KS 2 Panel Car Operator RIGHT Opening 700mm,ME-RIGHT 700,79.695,Purchase Price,79.695
-558,7c77cf6d7a,OP179,MS 2 Panel Car Operator Center Opening 750mm,ME-CENTER 750,98.175,Purchase Price,98.175
-559,7c851beca7,E307,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 8 Floor (B,G,1,2,3,4,5,6)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-566,7f0e8d5e88,LP230,MS 2 Landing Panel Center Opening Silver Mirror 700X2100,ME-CENTER 700,47.355,Purchase Price,47.355
-568,7fa845224a,C228,POWDER PAINT PE-GLOSSY (PT-7035G) X 20Kg,POWDER PAINT,27.0,Purchase Price,27.0
-569,7face85d72,RM232,MFC BOARD BROWN KANSAS OAK 2800 X 2070 X 18MM ,MDF BOARD,30.5,Purchase Price,30.476
-571,7fff8552f4,FC240,MARBLE PANDA WHITE 112 X 111 X 2CM ,MARBLE,52.0,Purchase Price,52.0
-573,805f0aed2e,FC251,MARBLE OMANI 125.5X97.5X2CM ,MARBLE,48.0,Purchase Price,48.0
-574,81625c5500,FC256,MARBLE BLACK GALAXY 155.5X156.5X2CM ,MARBLE,84.0,Purchase Price,84.0
-576,820d0f389c,E343,Drum Lift Swing Gate Circle Operator Electric ,EL-GENERAL,107.505468,Purchase Price,0.0
-577,82534c685a,E296,"Italex COP Full Black Glass Capacity 4 Person, Load 320KG, 4 Floor (B,G,1,2)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,65.730528,Purchase Price,0.0
-578,828d5ce51b,C340,POWDER PAINT PE TEXTURE 20KG PT-3020 TX ,POWDER PAINT,30.0,Purchase Price,29.9567
-579,83494e8ac5,E305,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 6 Floor (G,1,2,3,4,5)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-583,83c343d682,LP229,MS 2 Landing Panel Center Opening Silver Hairline 750X2100,ME-CENTER 750,46.2,Purchase Price,46.2
-589,8537fb9cd2,E471,Lika Encoder C50-H-1024ZCU46L1,EL-PART ITEM,50.8464,Purchase Price,0.0
-590,8541be82b2,E308,"Italex COP Full Black Glass Capacity 7 Person, Load 560KG, 3 Floor (G,1,2)(for Monarch) (BCG401, A4M82153) without Indicator",EL-COP,79.8327,Purchase Price,0.0
-593,858db71dd5,RM253,SS SHEET 1.5MM X 4X8FT GR304 BLACK HAIRLINE ,SS SHEET,34.331,Purchase Price,34.331
-604,87bd613ac5,HY142,PUMP STATION DIFU for 2 STOPS 3KW P+Q 800-1000KG 0.3M/S 3 Valves (Power Unit for Hydraulic),HY-GENERAL,171.333108,Purchase Price,0.0
-609,8841281a5e,E313,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 12 Floor (B,G,1,2,3,4,5,6,7,8,9,10)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,79.8327,Purchase Price,0.0
-618,894f230356,FC235,MARBLE OMANI 131 X 120.5 X 2CM ,MARBLE,53.0,Purchase Price,53.0
-620,899a7d0e65,LP277,MS 2 Landing Panel Center Opening Powder Coating 700X2100,ME-CENTER 700,23.485,Purchase Price,23.485
-623,8ac4835456,MK162,"MCK200 FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 1.0M/S, Ratio 2:1, AC380V, 15A, 6.7KW, Brake DC110V, Pulley 400-5X10-15 (400mm Steel Pulley, 5 Core, 10mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,442.571688,Purchase Price,0.0
-627,8b35b13443,RM116,MS SHEET 10MM x 1220 x 2440MM (10mm x 4 x 8Ft),MS SHEET,61.8,Purchase Price,63.0
-628,8b95669aff,OP222,KS 2 Panel Car Operator Center Opening 900mm,ME-CENTER 900,75.46,Purchase Price,75.46
-630,8bfc735de6,FC268,MARBLE BLACK GALAXY 130.5X111X2CM ,MARBLE,60.0,Purchase Price,60.0
-631,8c4e188ac4,FC279,MARBLE DARK EMPERADOR 140.5X111X2CM ,MARBLE,65.0,Purchase Price,65.0
-634,8ca5bfa571,RM280,SS SHEET G304 (0.8mm x 1219 X 2438mm) SILVER MIRROR ,SS SHEET,49.03,Purchase Price,18.8766
-636,8ccd419eef,HY152,Cylinder Piston (70/65/3600mm) for TR4500mm,HY-PISTON,146.97306,Purchase Price,0.0
-638,8d2bdc99f6,E306,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 7 Floor (G,1,2,3,4,5,6)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-639,8d54cb6ace,FC253,MARBLE OMANI 121X130.5X2CM ,MARBLE,59.0,Purchase Price,59.0
-643,8ea9969cf7,RM225,SS SHEET G304 (1219X2438 X 1.2mm) BRONZE MIRROR ,SS SHEET,57.0,Purchase Price,57.0
-644,8f0f0737e7,E672,ELECTRIC WATER HEATER GLASS 50LTR ,WATER HEATER,28.5,Purchase Price,28.5
-645,8f61bba05a,RM251,SS SHEET 1.5MM X 4X8FT GR304 GOLD HAIRLINE ,SS SHEET,33.179,Purchase Price,33.179
-648,90025ce009,MK183,"MGV25S-MGV25101923B500 Montanari (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC360V, 14.5A, 5KW, Brake DC207V, Pulley 240-5X6.5-12 (240mm Steel Pulley, 5 Core, 6.5mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,729.5688,Purchase Price,0.0
-655,919dd0bb1d,E322,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 7 Floor (G,1,2,3,4,5,6)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-658,92543ad648,E657,"FUJI PREMIUM Monarch Controller (Medium) NICE 3000 (NICE-L-C-4011) AC380V, 11KW ",EL-CONTROLLER,315.527,Purchase Price,315.527
-661,92cc8a596d,OP201,MS 2 Panel Car Operator Left Opening 800mm,ME-LEFT 800,116.27,Purchase Price,116.27
-662,932bff7199,E792,CAR TOP BOX MAIN BOARD FOR AFP ,EL-PART ITEM,21.34,Purchase Price,21.34
-666,9443890788,MK171,"MDX26M Montanari C (MRL) Gearless Machine Load 800KG, Speed 1.0M/S, Ratio 2:1, AC380V, 14.6A, 5.08KW, Brake DC110V, Pulley 240-6X8-12 (240mm Steel Pulley, 6 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,480.714192,Purchase Price,480.464
-672,95eb60146a,E724,ELECTRIC BRAKE REALSING DEVICE DC207V AC220V ,EL-PART ITEM,25.218,Purchase Price,25.2175
-674,963c5ba8b3,LM205,MS 2 Panel Landing Mechanism Center Opening 900mm,ME-CENTER 900,24.64,Purchase Price,24.64
-675,96a90b3bac,E261,"FUJI Monarch MR Controller (Medium) NICE 3000 (NICE-L-C-4015) AC380V, 15KW",EL-CONTROLLER,349.873308,Purchase Price,0.0
-679,982bfea188,E615,ENCA ENCODER BOARD 24V ,PART ITEM,28.475,Purchase Price,28.475
-685,98ec965509,OP211,MS 2 Panel Glass Car Operator Center Opening 700mm,ME-CENTER 700,95.095,Purchase Price,95.095
-686,98fcd18a4b,CP238,MS 2 Car Panel Center Opening Silver Mirror 900X2100,ME-CENTER 900,48.895,Purchase Price,48.895
-687,9923f06cf2,E321,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 7 Floor (B,G,1,2,3,4,5)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,79.8327,Purchase Price,0.0
-693,99fd17264e,CP284,KS 2 Car Panel Center Opening (Glass) Silver Mirror 900X2100 (Frame Type) ,ME-LEFT 900,109.725,Purchase Price,109.725
-697,9a74cfacb6,LP199,MS 2 Landing Panel Center Opening (Glass) Silver Hairline 800X2100 (Frame Type) ,ME-CENTER 800,109.725,Purchase Price,109.725
-699,9b080239e9,OP198,MS 2 Panel Car Operator RIGHT Opening 800mm,ME-RIGHT 800,117.425,Purchase Price,117.425
-701,9b7318de5d,E274,"Butkon COP Black Mirror Mark 3, 2 Floor (G,1) (for Arcube) U21YR0008",EL-COP,32.39532,Purchase Price,0.0
-705,9c12331212,CP208,MS 2 Car Panel Center Opening (Glass) Black Hairline 700X2100 (Frame Type),ME-CENTER 700,107.03,Purchase Price,107.03
-706,9c2d7298fb,E302,"Italex COP Full Black Glass Capacity 6 Person, Load 450KG, 4 Floor (G,1,2,3)(for Monarch) (BCG401, A4M82153)",EL-COP,65.730528,Purchase Price,0.0
-712,9e4398123a,RM157,SS SHEET G304 (1219X2438X0.8mm) BLACK HAIRLINE OMANI,SS SHEET,52.0,Purchase Price,52.0
-713,9ed400d10a,RM275,MDF BOARD BEIGE TEXTILE 2800X2070X18MM (EG-F416-ST10) ,MDF BOARD,31.0,Purchase Price,30.9524
-715,9ee48d70a0,MK445,"MY07-C, FUJI PREMUIM, (MRL) Gearless Machine Load 800KG, Speed 1.0M/S, Ratio 2:1, AC380V, 12A, 5KW, Brake DC110V, Pulley240x6x8-12mm (240mm steel Pulley, 6 Core) Heidenhan ERN-1387 Encoder With Encoder wire ",ME-MOTOR,320.832,Purchase Price,320.832
-717,9f3132448f,LM161,MS 2 Panel Glass Landing Mechanism Left Opening 1200mm ,ME-LEFT 1200,46.2,Purchase Price,46.2
-718,9f4d865b05,LP292,KS 2 Landing Panel Left Opening Silver Hairline 700X2100,ME-LEFT 700,46.585,Purchase Price,46.585
-720,a08888f72e,MK187,"SG22145BF/ARGQ58465 SICOR (MRL) Gearless Machine Load 450KG, Speed 1.0M/S, Ratio 2:1, AC360V, 9.3A, 3.6KW, Brake DC207V, Pulley 320-9X8-12 (320mm Steel Pulley, 9 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire",ME-MOTOR,1232.64,Purchase Price,0.0
-723,a0d438af91,C355,"POWDER PAINT 5002G, 20KG ",POWDER PAINT,27.0,Purchase Price,27.0
-725,a1a686830c,RM162,SS SHEET G304 (1219X2438X0.8mm) SILVER MIRROR,SS SHEET,29.0,Purchase Price,28.0
-732,a360e0ae99,OP218,KS 2 Panel Glass Car Operator Left Opening 800mm,ME-LEFT 800,74.305,Purchase Price,74.305
-733,a37fc9861b,MK440,STEEL BELT PULLEY WITH SHAFT 3 CORE (Z302010008) ,PULLEY,24.598,Purchase Price,24.598
-740,a4836bcedd,C319,POWDER PAINT PE-TEXTURE BLACK (PT-9005 TXB) 15KG ,POWDER PAINT,25.0,Purchase Price,24.0
-744,a4e4e7d665,LP193,MS 2 Landing Panel Left Opening (Glass) Silver Hairline 1200X2100 (Frame Type) ,ME-LEFT 1200,115.5,Purchase Price,115.5
-747,a53163486b,RM121,MS CHEQUERED SHEET 3MM x 4x8Ft,MS CHEQUERED SHEET,22.857,Purchase Price,22.857
-748,a54a9d10a1,OP227,KS 2 Panel Car Operator Center Opening 700mm,ME-CENTER 700,75.845,Purchase Price,75.845
-749,a56e5aa415,RM250,SS SHEET G304 (1219X2438X1.2mm) BLACK HAIRLINE CHINA ,SS SHEET,26.37,Purchase Price,26.37
-753,a68744ae47,E332,"LCD (21.5 "") SYSTEM:- ANDROID 3288, 2G+8G WITH WIFI ",EL-DISPLAY,74.027736,Purchase Price,74.566
-754,a691602ba3,CP183,MS 2 Car Panel Left Opening (Glass) Silver Hairline 1200X2100 (Frame Type) ,ME-LEFT 1200,115.5,Purchase Price,115.5
-758,a744794fb5,CP218,KS 2 Car Panel Center Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-CENTER 800,100.1,Purchase Price,100.1
-761,a97d744c0e,OP212,MS 2 Panel Car Operator Center Opening 700mm,ME-CENTER 700,95.095,Purchase Price,95.095
-762,a9d7599b88,FC290,MARBLE TUNDRA GREY 117X116.5X2CM ,MARBLE,61.0,Purchase Price,61.0
-769,ab272dcd24,MK294,"AODEPU Over Speed Governor 1.0M/S, UP side MRL (Pulley 200mm-6mm wire diameter)",ME-SAFETY,49.367232,Purchase Price,37.376
-771,ab608d7832,E292,"Italex COP Full Black Glass Capacity 10 Person, Load 800KG, 2 Floor (G,1)(for Monarch) (BCG401, A4M82153) without BVD201",EL-COP,79.8327,Purchase Price,0.0
-776,ad1f945b2b,E645,UPS DENK TP500S SCHNEIDER ,PART ITEM,44.275,Purchase Price,44.275
-779,ade9279210,LP238,KS 2 Landing Panel Center Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-CENTER 800,100.1,Purchase Price,100.1
-781,aeb3f5ecc3,CP186,MS 2 Car Panel Right Opening Silver Hairline 800X2100 ,ME-RIGHT 800,45.045,Purchase Price,45.045
-782,af1a8bf7e2,MK310,ERKAN Safety Gear 16mm 2700KG 1.49 M/S LEFT and RIGHT for T90/T16 Guide Rail,ME-SAFETY,26.18,Purchase Price,26.18
-787,b165e1e543,LM207,MS 2 Panel Landing Mechanism Center Opening 800mm,ME-CENTER 800,23.1,Purchase Price,23.1
-789,b24caa0474,RM132,MS C-CHANNEL 150MM X 75MM X 12M,MS C-CHANNEL,79.5,Purchase Price,79.5
-800,b62b527d74,MK448,"AUTOMATIC SWING DOOR FOR HOMELIFT FLAT TYPE PANEL 900 X 2000MM WITH FRAME-150MM, COLOR-RAL7045 ",AUTO SWING DOOR,316.4,Purchase Price,316.4
-802,b63a67ca46,LM212,MS 2 Panel Glass Landing Mechanism Center Opening 700mm,ME-CENTER 700,36.575,Purchase Price,36.575
-803,b65a893532,LP313,KS 2 Landing Panel Center Opening (Glass) Silver Mirror 900X2100 (Frame Type) ,ME-CENTER 900,109.725,Purchase Price,109.725
-806,b7209a53f1,FC230,MARBLE BLACK GALAXY 120.5X85.5X2CM ,MARBLE,48.0,Purchase Price,48.0
-810,b7c6c4fb0c,TL150,SATA AIR OPERATED DRILL TOOL ,DRILL MACHINE,79.198,Purchase Price,79.1984
-811,b7ca7e0ac1,MK554,Elevator Deflection Pulley (Nylon) (250mm/110mm - 6 CoreX6.5mm) (50mm shaft hole) ,ME-PULLEY,30.0,Purchase Price,30.0
-815,b894d0fbc7,FC242,MARBLE VIETNAM WHITE 131X120.5X2CM ,MARBLE,73.0,Purchase Price,74.0
-826,bcd0e1cb27,MK157,"FAXI-128 FUJI OM (MRL) Gearless Machine Load 700KG, Speed 0.30M/S, Ratio 1:1, AC380V, 1.1A, 2.1KW, Brake DC110V, Pulley 240-2X8 (240mm Steel Pulley, 2 Core, 8mm Steel rope diameter) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch), Travel Limit 10 meter ",ME-MOTOR,545.701284,Purchase Price,512.269
-832,bf92ede658,MK473,Elevator Deflection Pulley (STEEL) (250mm/90mm - 8 CoreX6.5mm-10) (50mm shaft hole) ,PULLEY,31.0,Purchase Price,31.0
-833,bfdb13a1b2,RM114,MS SHEET 6MM x 1220 x 2440MM (6mm x 4 x 8Ft),MS SHEET,36.3,Purchase Price,37.0
-842,c1d4f75750,FC246,MARBLE TUNDRA GREY 112X129X2CM ,MARBLE,62.0,Purchase Price,62.0
-843,c1fa8d73be,E263,"FUJI OM Monarch Controller (mini) NICE 3000 (NICE-L-C-4005) AC380V, 5.5KW ARD inside HONOR Type",EL-CONTROLLER,268.472844,Purchase Price,252.9989
-844,c284091972,RM258,CHROME BAR 60MM ,CHROME BAR,52.084,Purchase Price,50.0
-847,c2e9b57756,FC255,MARBLE CREAMA MARFIL 105.5X105.5X2CM ,MARBLE,51.0,Purchase Price,51.0
-854,c511f4ebb3,FC257,MARBLE TUNDRA GREY 111.5X120.5X2CM ,MARBLE,59.0,Purchase Price,59.0
-856,c525fbb698,MK172,"MDX26ML Montanari C (MRL) Gearless Machine Load 1000KG, Speed 1.0M/S, Ratio 2:1, AC380V, 14.3A, 5.45KW, Brake DC110V, Pulley 320-7X8-12 (320mm Steel Pulley, 7 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,510.25518,Purchase Price,0.0
-858,c5b3300c0c,RM279,SS SHEET G304 (0.8mm x 1219 X 2438mm) SILVER HAIRLINE ,SS SHEET,42.69,Purchase Price,16.4357
-861,c603355a7c,LP231,MS 2 Landing Panel Left Opening (Glass) Silver Mirror 900X2100 (Frame Type),ME-LEFT 900,109.725,Purchase Price,109.725
-862,c6699864cb,OP177,KS 2 Panel Car Operator Right Opening 900mm,ME-RIGHT 900,75.46,Purchase Price,75.46
-863,c6cdf1c7c7,E309,"Italex COP Full Black Glass Capacity 7 Person, Load 560KG, 5 Floor (B1,B2,G,1,2)(for Monarch) (BCG401, A4M82153) without indicator",EL-COP,79.8327,Purchase Price,0.0
-868,c78f6b86e9,MK175,"MDX26S Montanari C (MRL) Gearless Machine Load 630KG, Speed 1.6M/S, Ratio 2:1, AC380V, 18.9A, 6.6KW, Brake DC110V, Pulley 240-5X8-12 (240mm Steel Pulley, 5 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,444.879036,Purchase Price,438.468
-869,c7cac6ce3c,E737,"Italex COP Full Black Glass + Hairline, Capacity 6 Person, Load 450KG, 2 Floor (G,1) (for Monarch) (BCG401) (R630 White Light) ",EL-COP,66.208,Purchase Price,66.208
-870,c7ea229377,LM181,MS 2 Panel Landing Mechanism Center Opening 750mm,ME-CENTER 750,23.1,Purchase Price,23.1
-871,c80f7e93f2,E298,"Italex COP Full Black Glass Capacity 5 Person, Load 400KG, 3 Floor (G,1,2)(for Monarch) (BCG401, A4M82153) without indicator",EL-COP,65.730528,Purchase Price,0.0
-875,cabd76732b,RM197,SS SHEET G304 (1219X2438X0.8mm) ROSE GOLD MIRROR,SS SHEET,47.0,Purchase Price,18.5
-882,cc145dabdd,E264,"FUJI OM Monarch Controller NICE 3000 (NICE-L-C-4007) AC380V, 7.5KW",EL-CONTROLLER,309.962736,Purchase Price,303.54
-884,cc23e54f0a,RM226,SS SHEET G304 (1219X2438 X 0.8mm) ROSE GOLD HAIRLINE ,SS SHEET,42.0,Purchase Price,42.0
-886,cc95c139b0,E269,"Itelax Monarch Controller (mini) NICE 3000 (NICE-L-C-4005) AC380V, 5.5KW ARD inside HONOR Type",EL-CONTROLLER,268.472844,Purchase Price,258.539
-887,cca83275c7,FC267,MARBLE BLACK GALAXY 145.6X136X2CM ,MARBLE,79.0,Purchase Price,79.0
-891,cda57c576b,E357,MCTC-CTB-A Car TOP Box for Monarch type (Big pin &amp; socket) (Revition BOX),EL-REVISION BOX,34.498512,Purchase Price,31.185
-892,cddcd73145,HY169,MOTOR 3PH 5.5HP 1400RPM TESLA ,PUMP,90.0,Purchase Price,90.0
-900,cf324796db,MK508,"MONA320-1000 FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 1.0M/S, Ratio 2:1, AC380V, 16A, 6.3KW, Brake DC110V, Pulley 240-7X8-12 (240mm Steel Pulley, 7 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch) ",ME-MOTOR,427.573,Purchase Price,430.905
-901,cf5ffdb78a,OP215,KS 2 Panel Car Operator RIGHT Opening 800mm,ME-RIGHT 800,74.305,Purchase Price,74.305
-902,cf76311732,CP206,KS 2 Car Panel Right Opening Powder Coating 900X2100,ME-RIGHT 900,23.485,Purchase Price,23.485
-904,cffbc0c433,HY153,Cylinder Piston (70/65/4700mm) for TR8000mm,HY-PISTON,159.29946,Purchase Price,0.0
-907,d0281947cd,E716,HEIDENHAIN Encoder ERN-1387-2048-62S14-70 With Encoder Cable ,EL-PART ITEM,43.586,Purchase Price,43.5859
-914,d110051662,FC252,MARBLE OMANI 140.5X111X2CM ,MARBLE,54.0,Purchase Price,66.0
-915,d11c4a9893,RM283,SS SHEET G304 (0.8mm X 1219 X 2438mm) CHAMPAGNE HAIRLINE ,SS SHEET,53.74,Purchase Price,20.6899
-916,d157057e9a,CP217,KS 2 Car Panel Center Opening Silver Mirror 800X2100,ME-CENTER 800,47.355,Purchase Price,47.355
-921,d2b726a52e,CP184,KS 2 Car Panel Center Opening Silver Hairline 800X2100 ,ME-CENTER 800,46.2,Purchase Price,46.2
-923,d2fbf156f0,CP211,MS 2 Car Panel Center Opening Powder Coating 900X2100,ME-CENTER 900,30.415,Purchase Price,30.415
-924,d3084dae96,MK169,"FAXI135A FUJI OM (MRL) Gearless Machine Load 900KG, Speed 0.40M/S, Ratio 1:1, AC380V, 8.5A, 3.5KW, Brake DC110V, Pulley 270-2X8 (270mm Steel Pulley, 2 Core, 8mm Steel rope diameter) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch), Travel Limit 10 meter ",ME-MOTOR,693.36,Purchase Price,0.0
-927,d384a42efa,CP216,KS 2 Car Panel Center Opening Powder Coating 900X2100,ME-CENTER 900,23.485,Purchase Price,23.485
-928,d39f45cd41,E665,ALL CABLES AND WIRES FOR DUMBWAITER 3 FLOORS ,WIRE,23.87,Purchase Price,23.87
-946,d868af285a,E113,EMK Automatic Rescue Device Charging Volt 220V Output AC380V adaption motor 11KW,EL-ARD,88.596,Purchase Price,75.66
-947,d8a52b9955,MK321,"Safety Gear Set (L/R) 1.0M/S, Capacity 1700KG, 16mm for T16/T90",ME-SAFETY,38.2311,Purchase Price,0.0
-949,d8d7c5edce,E474,Monarch Inverter 11 KW Nice-3000 (Nice-L-C-4011) for Monarch Controller,EL-PART ITEM,142.508592,Purchase Price,0.0
-950,d8e22d5188,OP200,MS 2 Panel Glass Car Operator Left Opening 800mm,ME-LEFT 800,122.815,Purchase Price,122.815
-951,d8f57b8ddd,LP272,MS 2 Landing Panel Center Opening  (Etched) Silver Mirror 800X2100,ME-CENTER 800,103.565,Purchase Price,103.565
-952,d9679e9ae7,RM259,"MS SCH40 3"" X 6MM X 6MTR ",MS PIPE,25.0,Purchase Price,25.0
-958,da25daf5b8,E362,Shaft Encoder (Signal Control Module + Absolute Value control system strip and read head for Monarch),EL-GENERAL,88.55748,Purchase Price,0.0
-959,da89cb7a58,MK505,"OPTICAL LENS, D24.9X1.5, Code=211LCG0086, ONE SMALL BOX = 5PC  ,  ",ME-PART ITEM,25.988,Purchase Price,5.1975
-960,db53a9f71b,E655,INTERFACE BOARD FOR HOMELIFT CONTROLLER RMO-BS/A ,PART ITEM,30.169,Purchase Price,30.169
-963,dbdbe64e75,LP225,MS 2 Landing Panel Center Opening  (Etched) Gold Mirror 800X2100,ME-CENTER 800,111.65,Purchase Price,111.65
-967,dd3da6d5b3,FC297,DOOR GLASS 6MM GREY MIRROR ,DOOR GLASS,21.0,Purchase Price,20.999
-969,dd4abafcb6,E358,MCTC-CTW-C2 Car Top Box Honor Type,EL-REVISION BOX,40.623192,Purchase Price,0.0
-972,de33be0911,MK182,"MGV25S-MGV25101203B500 Montanari (MRL) Gearless Machine Load 480KG, Speed 1.0M/S, Ratio 2:1, AC360V, 11A, 3.1KW, Brake DC207V, Pulley 320-4X8-16 (320mm Steel Pulley, 4 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,729.5688,Purchase Price,0.0
-983,e044c39412,FC282,MARBLE MUGHALA WHITE 140.5X110X2CM ,MARBLE,66.0,Purchase Price,66.0
-986,e09a6788b9,MK226,Eshine MS Door Car Operator Motor,ME-PART ITEM,40.0608,Purchase Price,0.0
-990,e0f0930980,RM236,MS SQUARE TUBE (BOX BAR) 150X150X4MM X 12M ,MS TUBE,80.0,Purchase Price,80.0
-995,e147515839,FC265,MARBLE MUGHALA WHITE 140.5X107X2CM ,MARBLE,63.0,Purchase Price,63.0
-997,e1777fb9f0,FC277,MARBLE MUGHALA WHITE 130.5X111X2CM ,MARBLE,62.0,Purchase Price,62.0
-1000,e2185fc38f,E315,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 14 Floor (B,G,1,2,3,4,5,6,7,8,9,10,11,12)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,0.0
-1005,e2ff942f08,MK305,"Electromagnatic Safety Gear Set (L/R) 0.63M/S, Capacity 1600KG, 9mm (For Drum Lift, T9)",ME-SAFETY,61.100424,Purchase Price,55.604
-1009,e3aecf43ed,RM227,SS SHEET G304 (1219X2438 X 0.8mm) BLACK MIRROR ,SS SHEET,58.0,Purchase Price,58.0
-1014,e458f10ce3,E359,Monarch Elevator Car Top Box/Revision Box terminal type,EL-REVISION BOX,43.543008,Purchase Price,0.0
-1015,e49f7dd401,CP207,MS 2 Car Panel Center Opening (Etched) Gold Mirror 800X2100,ME-CENTER 800,90.09,Purchase Price,90.09
-1019,e5b9928f35,MK154,"AYG 180 MRL2 AKIS (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC360V, 10.2A, 3.9KW, Brake DC198V, Pulley 240-6X6.5-10 (240mm Steel Pulley, 6 Core, 6.5mm Steel rope) ECN-1313 Encoder, with Hand brake &amp; encoder wire",ME-MOTOR,439.5132,Purchase Price,0.0
-1024,e675b90108,MK442,BIDIRECTIONAL L CARACASS SAFETY GEAR 1M/S 2400 KG 9MM (TURKEY) ,SAFETY,24.063,Purchase Price,24.063
-1031,e7bd82e65f,E475,Monarch Inverter 15 KW Nice-3000 (Nice-L-C-4015) for Monarch Controller,EL-PART ITEM,179.56098,Purchase Price,0.0
-1032,e856dc94da,MK446,"YJ65,GEAR MACHINE MOTOR Y100L-6, LOAD 200KG, SPEED 0.4M/S, 1.5KW, 325MM 2X8-20MM WITH DEFLECTION PULLEY 250MM X 2X8-20MM, SHAFT LENGHT 280MM ",ME-MOTOR,185.5,Purchase Price,185.5
-1035,e967ec2e95,LP257,MS 2 Landing Panel Left Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-LEFT 800,109.725,Purchase Price,109.725
-1037,e9e1b0d0c0,MK506,MOTOR BRAKE FOR MONTANARI GEARLESS MACHINE MDX-26S (630KG) ,ME-PART ITEM,112.292,Purchase Price,112.2918
-1040,ea85f9fb77,SSH113,SS SHEET G304 (1219X2438X1.5mm) GOLD MIRROR,SS SHEET,39.1594,Purchase Price,0.0
-1047,ef01e4d8c7,E316,"Italex COP Full Black Glass Capacity 8 Person, Load 630KG, 3 Floor (G,1,2)(for Monarch) (BCG401, A4M82153)",EL-COP,79.8327,Purchase Price,66.208
-1049,ef43a7aa9f,E464,"ESHINE Car Operator Inverter 0.4KW, 5.8A (input 1PH 240V/output 3PH 240V)",EL-PART ITEM,45.653904,Purchase Price,46.2
-1057,f300e62c2c,RM135,H BEAM 200 x 100MM x 12M ,H BEAM,65.8,Purchase Price,65.8
-1061,f3bb755d17,CP220,KS 2 Car Panel Center Opening (Glass) Silver Mirror 700X2100 (Frame Type),ME-CENTER 700,100.1,Purchase Price,100.1
-1062,f4397b04a1,CP219,KS 2 Car Panel Center Opening Silver Mirror 700X2100,ME-CENTER 700,47.3796,Purchase Price,0.0
-1063,f43de05cea,LP316,KS 2 Landing Panel Left Opening (Glass) Silver Mirror 800X2100 (Frame Type) ,ME-LEFT 800,100.1,Purchase Price,100.1
-1065,f5b079943a,FC254,MARBLE BLACK GALAXY 140.5X109.5X2CM ,MARBLE,66.0,Purchase Price,66.0
-1066,f682ca0b2c,E268,"Itelax Monarch Controller (Medium) NICE 3000 (NICE-L-C-4015) AC380V, 15KW",EL-CONTROLLER,179.56098,Purchase Price,339.9781
-1067,f6e2b98f1b,FC276,MARBLE TUNDRA GREY 140.5X111X2CM ,MARBLE,66.0,Purchase Price,66.0
-1071,f7437e8fde,MK298,"AODEPU Over Speed Governor 1.6M/S, UP side MRL (Pulley 240mm-6mm wire diameter)",ME-SAFETY,49.367232,Purchase Price,0.0
-1073,f78c0840be,LP289,KS 2 Landing Panel Left Opening Silver Hairline 800X2100,ME-LEFT 800,43.505,Purchase Price,43.505
-1076,f8b09e4bba,LM211,MS 2 Panel Landing Mechanism Center Opening 700mm,ME-CENTER 700,23.1,Purchase Price,23.1
-1077,f8ba9d3a85,MK292,"AODEPU Over Speed Governor 1.0M/S, DOWN side MRL (Pulley 200mm-6mm wire diameter) 12KG",ME-SAFETY,23.606,Purchase Price,9.8358
-1079,f8d9af455d,MK484,"ZIEHL-ABEGG, ZAtop SM20023D-20 GEARLESS MACHINE 1000KG, 168 RPM, 360V, 380NM, 6.7KW, 18.5A, BRAKE 207 VDC MICRO SWITCH, PULLEY 240 X 10 X 6.5-10 (240MM PULLEY, 10 CORE, 6.5MM STEEL ROPE) HEIDENHAIN ECN-1313 ENCODER ",ME-MOTOR,966.45,Purchase Price,986.0
-1080,f94367ac4f,LP269,MS 2 Landing Panel Center Opening Powder Coating 800X2100,ME-CENTER 800,23.1,Purchase Price,23.1
-1082,f9618ca0d9,FC298,MARBLE BLACK GALAXY 140.5X109X2CM ,MARBLE,68.0,Purchase Price,68.0
-1083,f971777379,C369,POWDER PAINT SILVER METALIC (SM-9006) X 15Kg ,POWDER PAINT,35.0,Purchase Price,35.0
-1088,f9faa09c86,RM199,SS SHEET G304 (1219X2438X1.2mm) GOLD HAIRLINE,SS SHEET,25.179,Purchase Price,25.179
-1090,fa49c5d789,MK295,"AODEPU Over Speed Governor 1.0M/S, UP side MRL (Pulley 200mm-6mm wire diameter) 12KG",ME-SAFETY,49.367232,Purchase Price,0.0
-1093,fb388b05e3,MK177,"MONA200-630/1.0B FUJI OM (MRL) Gearless Machine Load 630KG, Speed 1.0M/S, Ratio 2:1, AC380V, 10A, 4.3KW, Brake DC110V, Pulley 240-4X8-12 (240mm Steel Pulley, 4 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,338.637024,Purchase Price,338.115
-1094,fb4c5fba8b,C353,"POWDER PAINT 7024G, 20KG ",POWDER PAINT,27.0,Purchase Price,27.0
-1097,fba4b22704,CP234,MS 2 Car Panel Left Opening (Glass) Silver Mirror 800X2100 (Frame Type),ME-LEFT 800,96.25,Purchase Price,96.25
-1105,fd310be74a,FC294,MARBLE MUGHALA WHITE 150.5X131X2CM ,MARBLE,83.0,Purchase Price,83.0
-1107,fdad9df67e,FC247,MARBLE OMANI 156X101X2CM ,MARBLE,51.0,Purchase Price,51.0
-1109,fe1e74bb79,MK421,"MONA320-800/1.0 FUJI OM (MRL) Gearless Machine Load 800KG, Speed 1.0M/S, Ratio 2:1, AC380V, 13A, 5.4KW, Brake DC110V, Pulley 240-6X8-12 (240mm Steel Pulley, 6 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch) ",ME-MOTOR,427.573,Purchase Price,430.905
-1111,fe37eb0b5d,MK156,"FAXI100S-400 FUJI OM (MRL) Gearless Machine Load 400KG, Speed 1.0M/S, Ratio 1:1, AC380V, 1.1A, 2.7KW, Brake DC110V, Belt Pulley 100X2 (100mm Belt Pulley, 2 Core) Heidenhain ERN-1387 Encoder, Encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,298.768824,Purchase Price,0.0
-1115,fee5010578,LM183,MS 2 Panel Landing Mechanism Right Opening 800mm,ME-RIGHT 800,29.645,Purchase Price,29.645
-1117,ff7312d3b3,MK163,"MONA320 FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 1.0M/S, Ratio 2:1, AC380V, 16A, 6.7KW, Brake DC110V, Pulley 320-6X8-12 (320mm Steel Pulley, 6 Core, 8mm Steel rope) Heidenhain ERN-1387 Encoder, with Hand brake &amp; encoder wire (MCTC-PG-E) (Suitable For Monarch)",ME-MOTOR,427.795416,Purchase Price,0.0
-1120,ff909033ab,RM218,SS SHEET G304 0.8MM GOLD MIRROR FINISH 4X8' ETC-1076 ,SS SHEET,65.0,Purchase Price,65.0
-1125,ffdf98f097,MK160,"MQ290 FUJI OM (MRL) Gearless Machine Load 1000KG, Speed 0.40M/S, Ratio 1:1, AC380V, 10A, 4KW, Brake DC110V, Pulley (300mm Steel Pulley, 8mm Steel rope diameter) Limit 10 meter Center Position Heidenhain ERN-1387 Encoder, with Hand brake & encoder wire (MCTC-PG-E) (Suitable For Monarch) ",ME-MOTOR,719.041284,Purchase Price,0.0
+1,000a3dbf29,RM233,OMAN CEMENT PLC 50KG ,CEMENT,1.25,Purchase Price,1.238
+4,00e6eb0b4b,E721,"LOP DL440 GOLD HAIRLINE (BASEMENT) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",EL-LOP,9.282,Purchase Price,9.2824
+5,01864794f2,MK545,BRITEX Elevator Steel Rope 8mm Reinforced Core (8X19S SWR FC Ungalvanized Grade 1570n/mm2) ,ME-ROPE,0.6342,Purchase Price,0.6342
+6,0193ab1960,C374,MACHINE SCREW M4 X 25MM ,SCREW,0.0098,Purchase Price,0.0098
+8,01ef3f2cfb,MK503,CONTACT FOR TENSION WEIGHT DEVICE OX-200 ,ME-PART ITEM,1.386,Purchase Price,1.386
+9,01f6171f1d,E614,KBK-12 AND KBK-13 CONNECTIONI BOARD ,PART ITEM,16.852,Purchase Price,16.852
+10,021a19218f,C239,"PAN HEAD SELF TAPPING SCREW 8X1/2""",SCREW,2.8,Purchase Price,2.8
+11,026c121ace,E712,"Square LED light Temperature: 6500k, 408-CE2-36/1, Power=3W, AC220V ",EL-LED,1.009,Purchase Price,1.0087
+12,0343b6807e,E334,MCTC-HCB-R600 Monarch Elevator TOUCH LOP Display Board (Wire Socket type  COM/MOD-/MOD+/24V+),EL-DISPLAY,3.681,Purchase Price,3.6806
+13,03576290fc,MK232,MS Car Door Plastic roller pulley 32mmX14mm for balancing,ME-PART ITEM,0.7704,Purchase Price,0.0
+14,036269f017,FC270,DOOR GLASS 8MM CLEAR GUARDIAN ,DOOR GLASS,8.0,Purchase Price,8.0
+18,03b2430604,C134,SAFETY SHOE SIZE-43,SAFETY SHOE,5.5,Purchase Price,5.5
+20,0427102398,TL131,MEASURING TAPE 5M ,MEASURING TAPE,1.4,Purchase Price,1.4
+21,0464b0a67f,C277,HSS DRILL BIT 4MM,HSS DRILL BIT,0.28,Purchase Price,0.28
+23,0592b108ff,E248,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 8,EL-BUTTON,0.963,Purchase Price,0.0
+26,06c55cefaf,MSC162,KS 2 Panel Car Operator Metal Safety Cover for 800mm,ME-COVER 800,4.62,Purchase Price,4.62
+28,0859a51b8a,AB174,KS 2 Panel Aluminium Base 40X120mm Right Opening for 900mm,ME-RIGHT 900,1.54,Purchase Price,1.54
+29,093d231740,E141,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Close) DC ,EL-BUTTON,1.872072,Purchase Price,0.0
+30,096d1f0271,MK556,BSP MALE ADAPTOR 8-8MM ,ME-PART ITEM,1.0,Purchase Price,1.0
+31,096e5803d5,MK414,PVC Gasket Rubber 9mm ,GASKET,1.905,Purchase Price,1.905
+33,09b0db6319,C156,AIR BUBBLE Roll,AIR BUBBLE,6.5,Purchase Price,6.5
+34,0a056b9d17,C179,COVERALL BLUE XL,COVERALL,2.15,Purchase Price,2.15
+35,0a48de03c5,C236,"WIRE NAIL 2""",WIRE NAIL,0.82,Purchase Price,0.82
+38,0b05b7f8fc,C240,"BUGLE HEAD DRYWALL CHIPBOARD SCREW 1.5""",SCREW,1.65,Purchase Price,1.65
+40,0c56b1c906,MK283,Elevator Steel Belt (30mm-8X12) rubber coated for Belt Motor,ME-ROPE,1.763,Purchase Price,1.763
+41,0cb36f185d,MK513,Elevator Deflection Pulley NE200 (Nylon) (200mm - 5 CoreX6.5mm-10mm) (50mm shaft hole) For Zeihl-Abegg Motor ,ME-PULLEY,12.682,Purchase Price,12.682
+42,0cb93d7986,RM158,SS SHEET G304 (1219X2438X0.8mm) BLACK MIRROR CHINA,SS SHEET,18.962,Purchase Price,18.962
+43,0cfe124401,E217,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 11",EL-BUTTON,1.563912,Purchase Price,0.0
+44,0d1fdaaf21,C360,CABLE TIE 400X4.8 WHITE ,CABLE TIE,3.675,Purchase Price,3.675
+47,0dacc76a7c,RM256,DOOR GLASS 8MM CLEAR POLISH ,DOOR GLASS,9.0,Purchase Price,8.997
+48,0db75dcdaa,C125,WELDING GLOVES RED,WELDING GLOVES,1.3,Purchase Price,1.3
+50,0e52eb602b,E242,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 2,EL-BUTTON,0.963,Purchase Price,0.9625
+51,0e78c2d64f,E616,50W LED DUST PROOF LIGHT ,EL-LED,0.5,Purchase Price,0.5
+52,0e83abbe5f,E324,MONARCH COP Floor call JP Board in cabin MCTC-CCB-A,EL-COP,5.519916,Purchase Price,4.158
+54,0f04d03ad7,C366,INTER LOCK TILES GREY 20X10X6CM ,INTER LOCK TILES,1.8,Purchase Price,1.75
+55,0f06ffe128,E429,MONARCH LOP Full Silver T (TOP) Four Wire Serial System,EL-LOP,9.002,Purchase Price,9.002
+56,0f0c88b699,AC253,"G.I BOLT M10 X 40MM, GRADE 8.8",NUT BOLTS & WASHER,0.020313,Purchase Price,0.020313
+57,0fa24738c7,C111,PERMANENT MARKER BLUE,PERMANENT MARKER,0.15,Purchase Price,0.125
+58,0fcc70bc32,E651,BUTKON OVERDOOR INDICATOR 81/20 ,PART ITEM,3.08,Purchase Price,3.08
+61,1048cf347d,E653,MONARCH VOICE ANNOUNCER MCTC-CHM-B ,PART ITEM,17.995,Purchase Price,17.995
+64,10cb39af85,E222,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 5",EL-BUTTON,1.563912,Purchase Price,0.0
+67,10ef231863,E516,Magnetic single Mono stable sensor ,EL-SENSOR,1.197972,Purchase Price,0.0
+68,10f4bec1d0,MK337,Flat Sliding Guide Shoe 140X120mm for T90/T16 Guide Rail (16mm),ME-SHOES,2.315052,Purchase Price,0.0
+70,121ca7f76b,E798,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (ALARM) A ,EL-BUTTON,1.358,Purchase Price,1.358
+71,1222c17b58,FR250,MS 2 Landing Panel Center Opening Silver Hairline 700X40X120X2100 Frame,ME-CENTER 700,10.78,Purchase Price,10.78
+73,124ffead98,C339,ROUTER BIT V 12X12X8 (V GROOVE BIT) ,GROOVE BIT,2.85,Purchase Price,2.85
+74,125161a9cc,C258,CARBON BRUSH N542174,CARBON BRUSH,1.8,Purchase Price,1.8
+75,1268a5a1ce,E119,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Fan) F,EL-BUTTON,1.872072,Purchase Price,0.0
+76,12bfc35834,TL157,L KEY 6MM ,L KEY,1.2,Purchase Price,1.2
+79,13557ab8c6,TL152,AIR WRENCH TOOL ,AIR WRENCH,10.999,Purchase Price,10.9995
+81,13a1659e8a,MK381,PVC Gasket Rubber 6mm,GASKET,1.904,Purchase Price,1.8095
+83,13c781543d,E135,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Lock) L,EL-BUTTON,1.872072,Purchase Price,0.0
+85,141e20c7a6,E124,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 12,EL-BUTTON,1.872072,Purchase Price,0.0
+87,14abc263da,HY218,"HYDRAULIC HOSE 1/2"" X 40CM ",HOSE,4.0,Purchase Price,4.0
+88,14b8f946e1,TL156,L KEY 8MM ,L KEY,1.8,Purchase Price,1.8
+91,15011df5c3,RM223,MS SQUARE TUBE (BOX BAR) 30MM x 30MM x 2MM x 6M ,MS TUBE,3.3,Purchase Price,3.1
+94,1695b4f82b,MK535,Metal Counter Weight 114 (10.5X5cm) 1X49KG ,COUNTER WEIGHT,5.39,Purchase Price,5.39
+96,17282f60ff,E497,Monarch Brake Resistor 4000W 45RJ,EL-RESISTOR,4.849668,Purchase Price,5.209
+98,172f86c63e,TL143,"RATCHET HANDLE 1/2"" S ",RACHIT SPANNER,5.8,Purchase Price,5.8
+99,1746bc7b33,C392,CALCULATOR (BASICS) ,CALCULATOR,3.8,Purchase Price,3.8
+100,175d02d4cb,FR246,KS 2 Landing Panel Center Opening Silver Hairline 700X40X120X2100 Frame,ME-CENTER 700,8.855,Purchase Price,8.855
+101,1772b8f0ed,C198,STAR SCREW DRIVER BIT PH2-65MM (EP-50062),SCREW DRIVER BIT,0.45,Purchase Price,0.45
+104,1816ef7feb,MK507,Elevator Thimble Rod for Rope Attachment 8mm With Rope Clamp (C) ,ME-ROPE,1.14,Purchase Price,1.1396
+105,1880068070,RM237,MS SQUARE TUBE (BOX BAR) 38MM X 38MM X 2MM X 6M ,MS TUBE,4.5,Purchase Price,3.6
+106,18c9836d7b,CP185,MS 2 Car Panel Center Opening Powder Coating 800x2100 ,ME-CENTER 800,18.865,Purchase Price,18.865
+109,198ef65370,AC288,GI NUT M4 ,NUT BOLTS & WASHER,0.012,Purchase Price,0.0116
+111,19d5beea0f,AC270,G.I WASHER M12 X 25MM,NUT BOLTS & WASHER,0.003744,Purchase Price,0.003744
+113,19fa86f76a,E418,MONARCH LOP Full Black and Silver B (Basement) Four Wire Serial System LED,EL-LOP,10.577592,Purchase Price,0.0
+116,1b3ff7600d,C126,COTTON WASTE CLOTH (BANYAN WASTE),COTTON WASTE,8.8,Purchase Price,5.4999
+121,1d245723f7,MK227,KaiDC Elctromagnetic Lock Safety Door Switch,ME-PART ITEM,17.580528,Purchase Price,0.0
+122,1d8506551b,E123,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 11,EL-BUTTON,1.872072,Purchase Price,0.0
+124,1dc0a3ff5d,E333,MCTC-HCB-R1 Monarch Elevator LOP HOP Display Board (Wire Socket type  COM/MOD-/MOD+/24V+),EL-DISPLAY,4.017636,Purchase Price,0.0
+125,1dcab638c7,E670,LED FLOOD LIGHT 300W ,FLOOD LIGHT,9.5,Purchase Price,9.5
+126,1df9c45eb1,E133,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Ground) G,EL-BUTTON,1.872072,Purchase Price,0.0
+127,1e09fa7e33,C171,"MASKING TAPE 2""",MASKING TAPE,0.2,Purchase Price,0.2
+129,1e64041e61,TL154,"MAGNETIC CHUCK FOR IRON, 50KG SUCTION FORCE ",MAGNETIC CHUCK,11.64,Purchase Price,11.64
+132,1ee504a6d6,E433,12V General Purpose Relay,EL-PART ITEM,2.17638,Purchase Price,0.0
+133,1f2f1577ea,C385,POWDER PAINT PE GLOSSY PT-1002G 1X10KG ,POWDER PAINT,13.5,Purchase Price,15.0
+135,1fae9d7350,FR294,MS 2 Landing Panel Center Opening Silver Mirror 900X40X120X2100 Frame,ME-CENTER 900,12.32,Purchase Price,12.32
+136,1fc1f24d2a,AC179,ALLEN KEY BOLT BLACK 10MM X 25MM,NUT BOLTS & WASHER,0.098,Purchase Price,0.098
+137,1fd1c1fed0,TL118,MEASURING TAPE 3M,MEASURING TAPE,1.2,Purchase Price,0.5
+138,1ff7dbcd0c,E804,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (INTERCOM) I ,EL-BUTTON,1.358,Purchase Price,1.358
+140,2058c5b567,MK467,Metal Counter Weight 84 (10X6.5cm) 1X47KG ,COUNTER WEIGHT,5.17,Purchase Price,5.17
+141,207b62decd,E496,Monarch Brake Resistor 2500W 80RJ (without cover),EL-RESISTOR,4.849668,Purchase Price,0.0
+143,20d657d8e2,MK387,"LOP Surface Type without back Box, Black Glass with Blue Light Display, with push Buttons (Touch Type, Blue Light button)",LOP,9.6418,Purchase Price,0.0
+146,218121e01f,MK118,Cabin Handel Gold Mirror (900mmX40mm) pipe type HM-301TJ,ME-CABIN,15.153768,Purchase Price,0.0
+149,21d1bd2cc2,LP232,MS 2 Landing Panel Right Opening Powder Coating  800X2100,ME-RIGHT 800,18.48,Purchase Price,18.48
+151,23a47f9589,C346,"PATA DRILLING SCREW 1"" ",SCREW,0.011,Purchase Price,0.011
+153,23c73a0321,C389,EXECUTIVE SAFETY SHOE SIZE-40 ,SAFETY SHOE,8.8,Purchase Price,8.8
+155,24560a9bab,FR306,MS 2 Landing Panel Center Opening Powder Coating 800X40X120X2100 Frame,ME-CENTER 800,11.165,Purchase Price,11.165
+156,249d80f538,AC291,GI CHAIN 5MM X 8MTR LONG ,G.I CHAIN,5.5,Purchase Price,5.5
+159,2521d7e0ef,MSC139,MS 2 Panel Landing Mechanism Metal Safety Cover for 1300mm ,ME-COVER 1300,2.31,Purchase Price,2.31
+160,254062534b,AC314,GI FLANGE NUT M8 ,NUT BOLTS & WASHER,0.033,Purchase Price,0.033
+161,258b0ffe9e,MK378,Wedge Anchor Bolt M12X120mm,GENERAL,0.1,Purchase Price,0.0616
+162,259598a81c,MK287,GUSTAV WOLF Elevator Steel Rope reinforced Core (8X19W IWRC 1770 U sz 6MM),ME-ROPE,0.123264,Purchase Price,0.0
+163,25b7f2c93e,RM120,MS SHEET 2MM x 1220 x 2440MM (2mm x 4 x 8Ft),MS SHEET,11.7,Purchase Price,12.8
+164,264b6586b5,MK512,"NOZZLE FOR LASER MACHINE 1.2 DOUBLE D32X1.5MM, 120GJT0615 ",NOZZLE,1.213,Purchase Price,1.2128
+165,265e5cbad6,RM270,MDF BOARD LIPPING CHARGE ,MDF,0.5,Purchase Price,0.5
+166,26824ea1e2,E143,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 0,EL-BUTTON,1.872072,Purchase Price,0.0
+167,2683be3cb3,E739,3W LED SPOT Light for cabin Gold Type 3000K Warm White ,EL-LED,0.954,Purchase Price,0.9545
+168,26f2714cfd,E228,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Intercom) I",EL-BUTTON,1.563912,Purchase Price,0.0
+170,2798f25856,FR243,MS 2 Landing Panel Center Opening Silver Hairline 750X40X120X2100 Frame,ME-CENTER 750,11.935,Purchase Price,11.935
+171,2820c761ac,RM198,SS SHEET G304 (1219X2438X0.8mm) GOLD HAIRLINE,SS SHEET,17.325,Purchase Price,17.325
+172,28282e91e3,MK121,Cabin Handel Silver HairLine (1000mmX50mm) pipe type,ME-CABIN,9.9073,Purchase Price,0.0
+173,286cbfa9ba,FC259,DOOR GLASS 8MM CLEAR TEMPER POLISH ,DOOR GLASS,9.5,Purchase Price,9.5
+175,292808d67c,E247,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 7,EL-BUTTON,0.963,Purchase Price,0.0
+176,2935a819dd,E714,Encoder Wire (17m) for HEIDENHAIN type encoder ERN-1387 ,EL-PART ITEM,9.463,Purchase Price,9.4633
+181,2a53345170,C232,BLIND RIVET 4X10MM,BLIND RIVET,2.8,Purchase Price,2.8
+182,2a80faa8d8,FR228,KS 2 Landing Panel Center Opening Powder Coating 900X40X120X2100 Frame ,ME-CENTER 900,10.78,Purchase Price,10.78
+183,2af7f7d2bf,RM243,COLD ROLLED SHEET 1 MM X 4X8' (FOR FIRE BOX) ,MS SHEET,7.5,Purchase Price,7.6
+184,2b2d5c3f37,E145,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 10,EL-BUTTON,1.872072,Purchase Price,0.0
+185,2b79e87f3d,E410,DL450 LOP Gold and Black M (Medium) Four Wire Serial System LED BIG,EL-LOP,9.59148,Purchase Price,0.0
+186,2be66690aa,AC206,JOINT MS ALLEN KEY BOLT M12 X 30MM ,NUT BOLTS & WASHER,0.096,Purchase Price,0.096
+187,2c7ec0ba10,E210,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Alarm) A",EL-BUTTON,1.563912,Purchase Price,0.0
+188,2cdf3be028,MK526,"STEEL BELT PULLEY WITH SHAFT 2CORE 455x108mm (MGD100), M405021001 ",PULLEY,18.846,Purchase Price,18.993
+190,2d7cc0f875,GR113,T90/B 5M-Elevator Guide Rails(T-16),GUIDE RAILS,16.170696,Purchase Price,0.0
+193,2e277c745b,RM241,DOOR GLASS MIRROR BEVELING 6MM ,DOOR GLASS,14.286,Purchase Price,11.998
+194,2e2ce11716,MK502,TENSION PULLEY WITH AXLE SUITABLE FOR TENSION WEIGHT DEVICE 210MM ,ME-PULLEY,4.043,Purchase Price,4.0425
+195,2e3bcebe33,C133,COVERALL BLUE 2XL,COVERALL,2.15,Purchase Price,2.15
+197,2e868aa26f,RM245,G.I PROFILE SHEET 28G 1X2MTR ,G.I PROFILE SHEET,2.3,Purchase Price,2.29
+198,2e936b8fab,AB213,KS 2 Panel Aluminium Base 40X120mm Center Opening for 900mm,ME-CENTER 900,1.155,Purchase Price,1.155
+199,2e9743c5be,E238,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 1,EL-BUTTON,0.963,Purchase Price,0.9625
+200,2eae884f27,E214,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 0",EL-BUTTON,1.563912,Purchase Price,0.0
+201,2ecea715fc,RM260,ALLUMINIUM COMPOSITE PANEL 3MM X 8X4' (BLACK) ,ACP,10.0,Purchase Price,10.0
+202,2f31a786a1,AC276,G.I SPRING WASHER M10,NUT BOLTS & WASHER,0.001259,Purchase Price,0.001259
+203,2f64aa1a23,MK418,"BSP MALE ADAPTOR 8-22MM, (3/8"") ",ME-PART ITEM,1.0,Purchase Price,1.0
+205,2fd97f1e66,C377,PAINT SYNTHETIC ENAMEL ROYAL BLUE NATIONAL 3.6LTR ,ENAMEL PAINT,6.0,Purchase Price,6.0
+206,3002dbd550,E594,RVV 6X0.75mm? 6 CORE for Elevator Wiring,EL-WIRE,0.206,Purchase Price,0.2118
+208,302568f41a,E212,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Close) DC",EL-BUTTON,1.563912,Purchase Price,0.0
+209,302f79062f,C371,BRAS GAS SOCKET ,CON-GEN ITEM,0.5,Purchase Price,0.5
+210,303bec9173,MK514,Elevator Deflection Pulley NE200 (Nylon) (200mm - 5 CoreX6.5mm-10mm) (with Shaft 50mm X200mm) For Zeihl-Abegg Motor ,ME-PULLEY,13.979,Purchase Price,13.979
+211,30a0fe849b,AS192,MS 2 Panel Aluminium Sill 50mm Center Opening for 750mm,ME-CENTER 750,2.695,Purchase Price,2.695
+213,31a680c871,E241,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 12,EL-BUTTON,0.963,Purchase Price,0.0
+214,31c93692e3,E388,BUTKON LOP Full Gold M (Medium) Four Wire Serial System LCD,EL-LOP,5.39,Purchase Price,5.39
+216,3223a52c39,RM145,MS ANGLE 60MM x 60MM X 4MM X 6M ,MS ANGLE,6.0,Purchase Price,6.0
+217,32c8c98141,MSC161,KS 2 Panel Landing Mechanism Metal Safety Cover for 700mm,ME-COVER 700,1.155,Purchase Price,1.155
+220,330068c0b7,C130,LED PANEL ROUND LIGHT 30W ,LED PANEL LIGHT,2.6,Purchase Price,2.6
+225,346fbcb1f7,E347,Elevator Pit (DOWN) Lightning repair Emergency Stop Big,EL-GENERAL,5.196348,Purchase Price,5.1937
+226,34773bf03a,MK330,Door Slider Door Shoe for Dumbwaiter,ME-SHAFT,0.107856,Purchase Price,0.0
+228,34e6776356,FT140,"MS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, Left Lock)",ME-FITTINGS,3.08,Purchase Price,3.08
+230,358c7dc37d,E157,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Intercom) I ,EL-BUTTON,1.872072,Purchase Price,0.0
+233,35d6c7db67,MK198,BST Door Contact (Lock) with two roller RIGHT,ME-PART ITEM,2.072376,Purchase Price,0.0
+234,35d71880c7,MK390,Cabin Handel Silver Hairline Flat Type (1000mmx750x80mm) HM-313F,ME-CABIN,13.6615,Purchase Price,0.0
+235,35f520240c,C321,SAFETY SHOE SIZE-45 ,SAFETY SHOE,5.2,Purchase Price,5.5
+238,36b5f97586,E662,LOP WITH ELEVATOR CALL FUNCTION 3 FLOOR BLUE BACKLIGHT WITH WHITE FIGURES PUSH BUTTON G+2 WITH LOCK TYPE M403S ,LOP,11.242,Purchase Price,18.846
+240,36ca54a7c9,C357,LAMINATING SHEET CLEAR A4 ,LAMINATING SHEET,4.45,Purchase Price,4.45
+242,36d574228e,AC256,"G.I BOLT M12 X 60MM, GRADE 8.8",NUT BOLTS & WASHER,0.038235,Purchase Price,0.038235
+243,36f577c627,E799,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (OPEN) DO ,EL-BUTTON,1.358,Purchase Price,1.358
+245,376af0da74,MK336,"Flat Sliding Guide Shoe T-DX-H32, SIZE 140X120mm for T45/T5 Guide Rail (5mm) ",ME-SHOES,2.298,Purchase Price,2.2985
+248,385a8c54e6,E666,PIT INSPECTION BOX FOR DUMBWAITER ,PART ITEM,4.72,Purchase Price,4.72
+249,386c91b837,E677,LED STRIP LIGHT DD1308 ,LED STRIP LIGHT,0.9,Purchase Price,0.9
+251,38964fde0c,AS188,MS 2 Panel Aluminium Sill 90mm Left Opening for 700mm,ME-LEFT 700,2.6964,Purchase Price,0.0
+252,38b211d0f4,E236,Monarch Elevator Silver Push Button Square for COP (DB20) (Fan) F,EL-BUTTON,0.963,Purchase Price,0.0
+253,3934a8622e,E139,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Alarm) A ,EL-BUTTON,1.872072,Purchase Price,0.0
+254,396dcba0d1,MK208,BST Landing Door Spring,ME-PART ITEM,0.6741,Purchase Price,0.0
+256,397b26d8c1,MK546,RUBBER SHEET 10MM X 1.2Mtr X 10Mtr ,RUBBER SHEET,0.001033,Purchase Price,0.001033
+258,3989303e7a,C238,"SELF DRILLING SCREW (TRUSS HEAD) 6X7/16""",SCREW,3.8,Purchase Price,3.8
+259,39b1c4779b,MK515,Elevator Deflection Pulley NE240 (Nylon) (240mm - 7 CoreX6.5mm-10mm) (50mm shaft hole) For Zeihl-Abegg Motor ,ME-PULLEY,13.24,Purchase Price,13.24
+262,3ac130342f,E718,"LOP DL440 SILVER HAIRLINE (BASEMENT) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",LOP,8.135,Purchase Price,8.1351
+263,3ac15ee25c,E649,ID CARD FOR ACCESS CARD SUITABLE FOR PASSWORD SYSTEM ,EL-GENERAL,0.102,Purchase Price,0.102
+264,3aec5d3605,E348,Emergency Stop hoistway light for Pit bottom,EL-GENERAL,2.141712,Purchase Price,2.1406
+266,3ba0509904,MK340,Roller Guide Shoe for (Guid Rail T9mm &amp; T70mm),ME-SHOES,13.175,Purchase Price,13.1747
+267,3bb21ea341,E454,Control Transformer 110VA for (Monarch),EL-PART ITEM,5.897412,Purchase Price,0.0
+268,3bfce1b5a6,E240,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 11,EL-BUTTON,0.963,Purchase Price,0.0
+269,3c77c7c4bc,E147,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 12,EL-BUTTON,1.872072,Purchase Price,0.0
+270,3cbcb0f82c,RM149,MS FLAT 4MM x 30MM x 6M,MS FLAT,2.2,Purchase Price,2.2
+272,3db526cfaa,FC273,INTERLOCK TILES 24X24X6CM RED ,INTER LOCK TILES,1.6,Purchase Price,1.6
+273,3dbf04a9c9,MK541,"Over Speed Governor 0.3M/S, DOWN side MRL (Pulley 150mm-6mm wire diameter) ",ME-SAFETY,9.0745,Purchase Price,0.0
+275,3e110eb40e,C383,SPRAY PAINT RED ,SPRAY PAINT,0.475,Purchase Price,0.6
+276,3e228cd605,AB185,MS 2 Panel Aluminium Base 40X120mm Left Opening for 800mm,ME-LEFT 800,2.695,Purchase Price,2.695
+277,3e3518c2f8,C318,"NATIONAL SYNTHETIC ENAMEL GLOSSY BLACK 890, 1X3.5LTR  ,  ",ENAMEL PAINT,6.2,Purchase Price,6.2
+279,3e89869eec,MK117,Cabin Handel Gold Mirror (1000mmX50mm) pipe type,ME-CABIN,15.1538,Purchase Price,0.0
+280,3ebb48c000,RM200,SS SHEET G304 (1219X2438X0.8mm) GOLD MIRROR,SS SHEET,18.646,Purchase Price,18.646
+282,3f9c4b550a,MK475,BSP MALE ADAPTOR 6-22MM ,ME-PART ITEM,1.0,Purchase Price,1.0
+283,3fc85b3dce,C129,EMERY PAPER P-150,EMERY PAPER,0.175,Purchase Price,0.175
+284,3fdad33eba,FR242,MS 2 Landing Panel Center Opening Gold Mirror 900X40X120X2100 Frame,ME-CENTER 900,13.475,Purchase Price,13.475
+285,402366d9b1,TL112,SILICON GUN,SILICON GUN,3.85,Purchase Price,3.85
+286,406d4e3fea,FT143,"MS 2 Panel Car Operator Fittings (Bracket, Nut Bolts, Panel Rod, Shoe, Key)",ME-FITTINGS,3.08,Purchase Price,3.08
+288,416dd4ed54,E488,YJ SemiConductor AC to DC rectifier,EL-PART ITEM,0.36594,Purchase Price,0.0
+290,41b02803e0,AS197,KS 2 Panel Aluminium Sill 90mm RIGHT Opening for 800mm,ME-RIGHT 800,2.695,Purchase Price,2.695
+291,41b257870c,MK518,Elevator Deflection Pulley NE240 (Nylon) (240mm - 10 CoreX6.5mm-10mm) (with Shaft 50mm X200mm) For Zeihl-Abegg Motor ,ME-PULLEY,14.472,Purchase Price,14.472
+292,427c83a0e5,E407,DL450 LOP Full Silver and Black M (Medium) Four Wire Serial System LED,EL-LOP,8.620776,Purchase Price,8.342
+293,427f86c0bb,E150,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 4,EL-BUTTON,1.872072,Purchase Price,0.0
+294,42a1da677d,E243,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 3,EL-BUTTON,0.963,Purchase Price,0.0
+295,4360a8f851,MK392,Cabin Handel Gold Hairline  Flat Type (1000mmx750x80mm) HM-313F,ME-CABIN,17.4872,Purchase Price,0.0
+296,4361b4adbc,E117,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Basement) B,EL-BUTTON,1.872072,Purchase Price,0.0
+297,4388a3c748,C361,"METAL CLIP 5/8"" ",METAL CLIP,2.2,Purchase Price,2.2
+298,4394c29b9e,E409,DL450 LOP Gold and Black B (Basement) Four Wire Serial System LED BIG,EL-LOP,9.59148,Purchase Price,0.0
+304,44a5dacd9a,TL141,PRUNING SHEAR INGCO HPS0601 ,PRUNING SHEAR,2.0,Purchase Price,2.0
+305,44cb8fed43,FR332,KS 2 Landing Panel Left Opening Silver Hairline 700X40X120X2100 Frame,ME-LEFT 700,15.015,Purchase Price,15.015
+307,4524507096,MK454,STEEL ROPE FOR MS CLOSING SPRING ,ME-PART ITEM,0.578,Purchase Price,0.578
+310,4590e4ff77,E155,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 9,EL-BUTTON,1.872072,Purchase Price,0.0
+312,45fc3e7824,MK148,TRAVEL BASE for Travel Wire,ME-GENERAL,0.7704,Purchase Price,0.0
+314,46f692ecd0,E613,SMPS 24VDC 200W (8.3A) (SWITCHING POWER SUPPLY) ,PART ITEM,10.716,Purchase Price,10.716
+315,470a5370e9,MK142,"NBSL Laminated Glass for Elevator Door 900X2100, 1793(1763)X378(348), 5+0.76+5 LEFT SIDE",ME-GENERAL,13.8672,Purchase Price,0.0
+316,470b8d85bf,E160,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Penthouse) P,EL-BUTTON,1.872072,Purchase Price,0.0
+317,477264f367,FR244,MS 2 Landing Panel Right Opening Powder Coating 800X40X120X2100 Frame,ME-RIGHT 800,15.015,Purchase Price,15.015
+319,482eaf3f26,HY175,"HYDRAULIC HOSE PIPE AND FITTINGS 1/2"" X 30CM ",HOSE,4.0,Purchase Price,4.0
+320,48565568d1,E251,Monarch Elevator Silver Push Button Square for COP (DB20) (Intercom) I,EL-BUTTON,0.963,Purchase Price,0.9625
+321,485f21f43f,E676,LED STRIP LIGHT DD1307 ,LED STRIP LIGHT,0.9,Purchase Price,0.9
+324,4a68a23fbd,E627,WATER PROOF ISOLATER 63A 3P ,EL-GENERAL,4.8,Purchase Price,4.8
+325,4a89820c34,FR297,MS 2 Landing Panel Center Opening Powder Coating 900X40X120X2100 Frame,ME-CENTER 900,11.55,Purchase Price,11.55
+326,4ab29a2400,HY174,"HYDRAULIC HOSE PIPE & FITTINGS 1/2"" X 3M ",HOSE,10.0,Purchase Price,10.0
+328,4b23f85f8f,E624,LED BULB 30W ,EL-GENERAL,2.2,Purchase Price,2.2
+330,4b42d729a0,LM224,KS 2 Panel Glass Landing Mechanism Center Opening 800mm,ME-CENTER 800,15.785,Purchase Price,15.785
+331,4b52f1bc2b,E216,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 10",EL-BUTTON,1.563912,Purchase Price,0.0
+332,4bc2cbf2e8,C118,TEFLON TAPE,TEFLON TAPE,0.1,Purchase Price,0.1
+335,4c4a9fe990,E118,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Close) DC,EL-BUTTON,1.872072,Purchase Price,0.0
+336,4c6b65b323,TL140,WIRE STRIPER 84-214 ,WIRE STRIPER,2.4,Purchase Price,2.4
+337,4c962d3553,E419,MONARCH LOP Full Black and Silver M (Medium) Four Wire Serial System LED,EL-LOP,10.577592,Purchase Price,0.0
+338,4d46249529,AC177,ALLEN KEY BOLT BLACK 10MM X 20MM ,NUT BOLTS & WASHER,0.078,Purchase Price,0.0
+339,4d49388a2f,HY220,BSP METRIC TEE 22MM ,HYD-PART ITEMS,2.0,Purchase Price,2.0
+342,4dbe43c376,E401,DL410 LOP Silver Black M (Medium) Twenty Wire Parallel System LED,EL-LOP,9.922752,Purchase Price,0.0
+343,4dce0700fc,HY173,"HYDRAULIC HOSE & FITTINGS 1/2"" ",HOSE,2.438,Purchase Price,4.0
+344,4de26e1470,C145,HOSE CLIP 11-16MM,HOSE CLIP,0.3,Purchase Price,0.3
+347,4e107f7827,E338,Acrylic cover for COP LED (Small) Dark Color 72 x135mm ,EL-DISPLAY,0.71262,Purchase Price,0.9471
+348,4e1b57c5f1,RM153,MDF BOARD 15MM x 1220 x 2440MM,MDF BOARD,5.6,Purchase Price,5.6
+349,4e50e4cff7,FR337,KS 2 Landing Panel Center Opening Powder Coating 800X40X120X2100 Frame,ME-CENTER 800,8.085,Purchase Price,8.085
+350,4e65b9a129,RM156,SS SHEET G304 (1219X2438X0.8mm) BLACK HAIRLINE CHINA,SS SHEET,18.392,Purchase Price,18.392
+351,4e8b3ac161,MK255,Elevator Deflection Pulley (Nylon) (320mm/110mm - 5 CoreX8mm-12) (50mm shaft hole),ME-PULLEY,17.13,Purchase Price,0.0
+352,4f00322ff5,E723,"LOP DL440 GOLD HAIRLINE (TOP) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",EL-LOP,9.282,Purchase Price,9.2824
+354,4f1db35e14,E495,Monarch Brake Resistor 2500W 80RJ,EL-RESISTOR,4.849668,Purchase Price,5.209
+355,4f7c84b76b,MSC160,KS 2 Panel Landing Mechanism Metal Safety Cover for 800mm,ME-COVER 800,1.54,Purchase Price,1.54
+356,4f806fd00c,C347,TERMISUR 1LTR ,TERMISUR,9.5,Purchase Price,9.5
+358,500a241504,C117,INSULATION TAPE (BLACK),INSULATION TAPE,0.15,Purchase Price,0.15
+360,50c7685c57,AC298,ROOFING NUT BOLT 3/16X3/4 ,NUT BOLTS & WASHER,0.085,Purchase Price,0.085
+361,511ba4714e,MK137,MARAZZI P70L Guide Rail Fish Plate for T9/T70,ME-GENERAL,0.36594,Purchase Price,0.366
+362,517b06d556,RM246,G.I PROFILE SHEET 28G 1X5MTR ,G.I PROFILE SHEET,5.5,Purchase Price,5.476
+363,5272b16370,E120,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 0,EL-BUTTON,1.872072,Purchase Price,0.0
+365,532a9509e6,TL136,CARPENTRY HAMMER 500GRM ,HAMMER,0.901,Purchase Price,2.25
+367,533e9d461d,E455,Control Transformer 800VA for (Monarch),EL-PART ITEM,17.692236,Purchase Price,0.0
+370,5387900424,MK149,Wedge Anchor Bolt M12X100mm,ME-GENERAL,0.001,Purchase Price,0.0
+371,54544a5bc3,HY176,"HYDRAULIC HOSE PIPE & FITTINGS 1/2"" X 3.5M ",HOSE,11.0,Purchase Price,11.0
+372,548bff0362,E420,MONARCH LOP Full Black and Silver T (TOP) Four Wire Serial System LED,EL-LOP,10.577592,Purchase Price,0.0
+373,54c2d3209c,AB177,MS 2 Panel Aluminium Base 90X70mm Right Opening for 800mm,ME-RIGHT 800,2.695,Purchase Price,2.695
+374,55e1a85dd2,E664,ALL CABLES AND WIRES FOR DUMBWAITER 2 FLOORS ,WIRE,14.919,Purchase Price,14.919
+375,56005ffc03,RM154,"WHITE WOOD 1.5"" x 1.5"" x 3M (38x38mm) ",WHITE WOOD,0.9,Purchase Price,0.85
+377,56300fcaf3,E669,3W LED SPOT Light for cabin Gold Type 6500K Cold White ,EL-LED,0.947,Purchase Price,0.947
+378,5645c3a531,E153,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 7,EL-BUTTON,1.872072,Purchase Price,0.0
+379,5646e2b2fc,AC313,GI FLANGE BOLT M8X20 ,NUT BOLTS & WASHER,0.098,Purchase Price,0.098
+380,5680a17c82,C350,STAPLER GUN 4-14MM EPICA EP20278 ,STAPLER,3.0,Purchase Price,3.0
+383,56f2040ba1,MK471,Metal Counter Weight 44 (10X11cm) 1X30KG ,COUNTER WEIGHT,3.3,Purchase Price,3.3
+384,578270eef9,E498,Monarch Brake Resistor 5000W 35RJ,EL-RESISTOR,4.849668,Purchase Price,5.209
+389,57da1fa415,FR280,MS 2 Landing Panel Left Opening Silver Mirror 800X40X120X2100 Frame,ME-LEFT 800,15.015,Purchase Price,15.015
+390,585c1945d2,AS194,MS 2 Panel Aluminium Sill 50mm Center Opening for 700mm,ME-CENTER 700,2.695,Purchase Price,2.695
+391,58a4481987,C373,POLYTHENE SHEET 1500G ,POLYTHENE SHEET,7.8,Purchase Price,7.8
+392,58bb03ad46,FR239,KS 2 Landing Panel Right Opening Powder Coating 700X40X120X2100 Frame,ME-RIGHT 700,11.55,Purchase Price,11.55
+393,58d8b50055,C160,PVC BOX FILE A4,BOX FILE,1.4,Purchase Price,1.4
+394,58da0decaf,C386,MS ROUND HINGES 25MM ,MS HINGES,0.485,Purchase Price,0.485
+395,5955034fe0,RM222,COLD ROLLED SHEET 0.9MM X 4X8' (FOR FIRE BOX) ,MS SHEET,7.4,Purchase Price,7.4
+397,597dcdd17d,C203,SPRAY PAINT BLACK (GLOSSY),SPRAY PAINT,0.45,Purchase Price,0.6
+400,5a6619c840,C146,HOSE CLIP 18-25MM,HOSE CLIP,0.35,Purchase Price,0.35
+401,5a853c57ec,C241,"BUGLE HEAD DRYWALL CHIPBOARD SCREW 4""",SCREW,1.85,Purchase Price,1.85
+403,5ad744076a,E337,"Acrylic cover for COP LED Monarch Display (Medium) 184.6X131X3MM, Suitable for HCB-U672/U672/631/U632 ",EL-DISPLAY,0.71262,Purchase Price,0.7178
+404,5b2740a8ce,MK143,"NBSL Laminated Glass for Elevator Door 1000X2100, 1793(1763)X378(348), 5+0.76+5 LEFT SIDE",ME-GENERAL,15.7932,Purchase Price,0.0
+407,5bbcaee8f3,AC308,G.I CARRIAGE BOLT 12X30MM ,NUT BOLTS & WASHER,0.095,Purchase Price,0.095
+408,5bf743ecea,TL137,CALIPER 150MM ,CALIPER,4.8,Purchase Price,4.8
+409,5c469488cc,C356,PAPER STAPLER ,STAPLER,1.8,Purchase Price,1.8
+410,5ca445e319,C306,ARALDITE EPOXY ADHESIVE,ARALDITE,1.65,Purchase Price,1.65
+411,5cd6b99fd9,MK288,GUSTAV WOLF Elevator Steel Rope reinforced Core (8X19W IWRC 1770 U sz 8MM),ME-ROPE,0.167562,Purchase Price,0.1675
+413,5d217ef3ed,MK245,Elevator Deflection Pulley (Nylon) (240mm/110mm - 5 CoreX8mm-12) ( with Shaft 58mm/50mmX200mm),ME-PULLEY,14.79168,Purchase Price,14.585
+414,5da54408cc,E152,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 6,EL-BUTTON,1.872072,Purchase Price,0.0
+415,5dc31c15bb,E802,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (GROUN) G ,EL-BUTTON,1.358,Purchase Price,1.358
+416,5ddaab1b0b,C342,PATTA BLIND RIVET NUT M10X21.5MM ,BLIND RIVET,0.085,Purchase Price,0.085
+418,5e71ec08e0,E510,Electric Bolt Lock with time delay with cylinder NC type (GGM-EBLD50NOC) with Access card system,EL-SECURITY,16.744644,Purchase Price,0.0
+419,5e81175dd5,MK116,Cabin Handel Gold Mirror (1000mmX40mm) pipe type HM-301TJ,ME-CABIN,15.153768,Purchase Price,0.0
+422,5ebaac669d,AS204,KS 2 Panel Aluminium Sill 50mm Center Opening for 700mm,ME-CENTER 700,2.695,Purchase Price,2.695
+423,5ec771f0ff,MK123,Cabin Handel Silver HairLine (900mmX50mm) pipe type,ME-CABIN,9.9073,Purchase Price,0.0
+424,5f195e6d39,E230,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Open) DO",EL-BUTTON,1.563912,Purchase Price,0.0
+425,5f2e7f20ae,C322,COVERALL BLUE 3XL ,COVERALL,2.15,Purchase Price,2.148
+426,5f415bccb1,AC255,"G.I BOLT M12 X 40MM, GRADE 8.8",NUT BOLTS & WASHER,0.028261,Purchase Price,0.028261
+428,5f53f91891,C121,SAFETY GOGGLE CLEAR,SAFETY GOGGLE,0.45,Purchase Price,0.6
+429,5f8a49086c,AC311,G.I CARRIAGE BOLT 12X40MM ,NUT BOLTS & WASHER,0.127,Purchase Price,0.127
+430,5fc1529d39,AC251,"G.I BOLT M8 X 40MM, GRADE 8.8",NUT BOLTS & WASHER,0.011607,Purchase Price,0.011607
+431,5fd16c43a5,E239,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 10,EL-BUTTON,0.963,Purchase Price,0.0
+432,60100827da,E367,Elevator External auxilary intercom,EL-INTERCOM,3.852,Purchase Price,3.465
+433,6032620ccd,AC294,"ROOFING NUT BOLT 1/4 X 1"" ",NUT BOLTS & WASHER,0.095,Purchase Price,0.095
+434,605328c407,C362,CALCULATOR CASIO ,CALCULATOR,5.8,Purchase Price,5.8
+435,60cf7fcc27,AS158,MS 2 Panel Aluminium Sill 50mm Left Opening for 1300mm ,ME-LEFT 1300,3.85,Purchase Price,3.85
+438,615264dc7d,LM221,KS 2 Panel Landing Mechanism Center Opening 900mm,ME-CENTER 900,15.785,Purchase Price,15.785
+439,61e04ab0ce,E598,RVV 2X0.75mm? 2 CORE for Elevator Wiring,EL-WIRE,0.077,Purchase Price,0.077
+442,624cd5988c,MK462,BOLT FOR SUSPECTION/CAR OPERATOR ,ME-PART ITEM,0.154,Purchase Price,0.154
+444,62fc589efd,E122,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 10,EL-BUTTON,1.872072,Purchase Price,0.0
+445,6302adf33a,MK412,FLANGE 112 AU ,ME-GENERAL,4.571,Purchase Price,4.571
+448,63494eacc5,C370,POLYTHENE SHEET 1000G ,POLYTHENE SHEET,4.2,Purchase Price,4.2
+449,6368a10812,MK517,Elevator Deflection Pulley NE240 (Nylon) (240mm - 10 CoreX6.5mm-10mm) (50mm shaft hole) For Zeihl-Abegg Motor ,ME-PULLEY,13.24,Purchase Price,13.24
+450,63a2e0bd84,C327,CLEANING BRUSH SOFT ,CLEANING BRUSH,1.2,Purchase Price,1.2
+451,63b1fa5191,LM219,KS 2 Panel Landing Mechanism Left Opening 700mm,ME-LEFT 700,19.635,Purchase Price,19.635
+452,63b4029922,E148,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Floor) 2 ,EL-BUTTON,1.872072,Purchase Price,0.0
+457,64e3880044,E725,"FIXING CLIPS FOR LOP OR COP PART 1, 2 & 3 ",EL-PART ITEM,0.362,Purchase Price,0.3619
+458,651b4e7f5e,C141,"PLASTIC BAG MEDIUM 7X12""",PLASTIC BAG,0.9,Purchase Price,0.9
+459,65208151f3,AS200,KS 2 Panel Aluminium Sill 90mm Left Opening for 800mm,ME-LEFT 800,2.695,Purchase Price,2.695
+460,6554659c68,MK248,Elevator Deflection Pulley (Nylon) (240mm/110mm - 6 CoreX8mm-12) (With shaft 50mmX200mm),ME-PULLEY,14.472,Purchase Price,14.585
+464,6626a64ab7,E368,Elevator Internal auxilary intercom,EL-INTERCOM,3.852,Purchase Price,0.0
+465,662927afce,E369,Master intercom telephone,EL-INTERCOM,4.2372,Purchase Price,4.235
+466,66682c2cd2,E457,DC110V Power board for controller monarch,EL-PART ITEM,14.941908,Purchase Price,0.0
+467,666f23b2bf,MK458,MS SLIDING BUFFER + SQUARE NUT + BOLT + BRACKET FIX BOLT ,ME-PART ITEM,0.963,Purchase Price,0.963
+468,66993fa2c6,E244,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 4,EL-BUTTON,0.963,Purchase Price,0.0
+470,67710aae84,MK247,Elevator Deflection Pulley (Nylon) (240mm/110mm - 6 CoreX8mm-12) (50mm shaft hole),ME-PULLEY,13.2402,Purchase Price,13.3433
+471,67c8cd994d,C332,SPINDLE WITH KNOB ,SPINDLE,1.75,Purchase Price,1.75
+472,67f09a0f8a,E126,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 3,EL-BUTTON,1.872072,Purchase Price,0.0
+473,682a6a6684,MK382,PVC Gasket Rubber 8mm,GASKET,1.905,Purchase Price,1.8095
+474,6843d41665,FT145,"KS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, RIGHT ROck)",ME-FITTINGS,3.465,Purchase Price,3.465
+476,6881b577ce,FR326,KS 2 Landing Panel Left Opening Silver Hairline 800X40X120X2100 Frame,ME-LEFT 800,12.705,Purchase Price,12.705
+478,69a35e4f06,MK331,Elevator adjustable cabin guide shoe for T70/T9 Guide Rail (10mm),ME-SHOES,1.667916,Purchase Price,1.668
+479,69b1ec9c41,E351,Keypad with RJ45 wire for monarch controller,EL-GENERAL,5.2002,Purchase Price,0.0
+484,6be6a81ad8,TL138,DIGITAL CLAMP METER UT201+ ,DIGITAL CLAMP METER,9.8,Purchase Price,9.8
+485,6ca939561a,FT138,"MS 2 Panel Landing Mechanism Fittings (Clip, Nut Bolts, Panel Rod, Shoe, Weight, Pipe)",ME-FITTINGS,5.005,Purchase Price,5.005
+487,6d0d71363f,HY170,HYDRAULIC OIL VG-68 1X20LTR ,HYDRAULIC OIL,16.19,Purchase Price,16.19
+488,6d57b43d23,E400,DL410 LOP Silver Black B (Basement) Twenty Wire Parallel System LED,EL-LOP,9.922752,Purchase Price,0.0
+489,6da6144ef4,FR248,MS 2 Landing Panel Center Opening Silver Hairline 800X40X120X2100 Frame,ME-CENTER 800,11.935,Purchase Price,11.935
+490,6dae6f04e9,MK334,Flat Sliding Guide Shoe 100X80mm for T70/T9 Guide Rail (10mm),ME-SHOES,1.937556,Purchase Price,0.0
+491,6ea06830c7,E722,"1)LOP DL440 GOLD HAIRLINE (MEDIUM) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",EL-LOP,9.282,Purchase Price,9.2824
+492,6ea099337e,MK126,Cabin Handel Silver Mirror (900mmX40mm) pipe type HM-301J,ME-CABIN,10.90116,Purchase Price,0.0
+494,6ef4c2d502,E134,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Intercom) I,EL-BUTTON,1.872072,Purchase Price,0.0
+496,6f53742c2b,FC287,DOOR GLASS 6MM MIRROR POLISH IRANI ,DOOR GLASS,9.494,Purchase Price,9.4937
+504,70af1a22a4,C338,MACHINE SCREW M4X30 ,SCREW,0.018,Purchase Price,0.018
+505,70e43ad134,RM278,G.I SHEET 0.4MM X 4X8FT ,GI SHEET,3.9,Purchase Price,3.9
+507,716dce580f,E397,DL350 LOP Full GOLD B (Basement) Fourteen Wire Parallel System LED,EL-LOP,9.99594,Purchase Price,0.0
+508,71beb3997e,E797,BOOT LUG 1.5MM ,EL-GENERAL,0.014,Purchase Price,0.014
+510,721df80621,AS185,MS 2 Panel Aluminium Sill 90mm RIGHT Opening for 800mm,ME-RIGHT 800,2.695,Purchase Price,2.695
+512,724947b983,AC293,"ROOFING NUTT BOLT 3/16X1"" ",NUT BOLTS & WASHER,0.085,Purchase Price,0.085
+514,72acd7da6b,E137,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Penthouse) P,EL-BUTTON,1.872072,Purchase Price,0.0
+516,73b68d9b1e,FR252,KS 2 Landing Panel Center Opening Silver Hairline 900X40X120X2100 Frame,ME-CENTER 900,16.555,Purchase Price,16.555
+517,74022e10ce,LM225,KS 2 Panel Landing Mechanism Center Opening 700mm,ME-CENTER 700,15.785,Purchase Price,15.785
+518,749a7e0d4f,C365,STAPLER PIN 12MM ,STAPLER,0.75,Purchase Price,0.75
+519,74b6bb0eb4,MK333,Flat Sliding Guide Shoe 100X80mm for T45/T5 Guide Rail (5mm),ME-SHOES,1.40598,Purchase Price,0.0
+521,74d3853203,C363,EXECUTIVE SAFETY SHOE SIZE-44 ,SAFETY SHOE,7.8,Purchase Price,7.8
+523,74f4eeb91d,MK487,KS CLOSING SPRING 900MM ,ME-PART ITEM,0.847,Purchase Price,0.847
+524,74fd0dfa4c,RM150,COMMERCIAL PLYWOOD 9MM x 1220 x 2440MM,COMMERCIAL PLYWOOD,5.7,Purchase Price,7.0
+527,75b9fb737b,C123,HAND GLOVES COTTON,HAND GLOVES,0.225,Purchase Price,0.2
+528,75ba7610fd,E231,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Penthouse) P",EL-BUTTON,1.563912,Purchase Price,0.0
+529,75da7687ac,RM249,SS SHEET 0.8MM X 4X8Ft GR304 BROWN MIRROR ,SS SHEET,19.07,Purchase Price,19.07
+532,7643892130,C173,PAD LOCK 60MM (BRASS),PAD LOCK,6.4,Purchase Price,6.4
+533,76511b2027,E726,Monarch Elevator Gold Push Button Square for COP (DB20) (Ground) G ,EL-BUTTON,1.251,Purchase Price,1.2513
+535,76e8c5e4da,RM274,MDF SHEET CUTTING ,MDF,4.0,Purchase Price,16.5
+536,773702028d,E125,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 2,EL-BUTTON,1.872072,Purchase Price,0.0
+537,7745f3771a,C260,CARBON BRUSH CB325,CARBON BRUSH,1.2,Purchase Price,1.2
+538,776655ec2b,C375,"SELF DRILLING SCREW 14X1"" ",SCREW,0.01,Purchase Price,0.0148
+540,77e25a1ebe,E762,MONARCH DOT MATRIX DISPLAY 129X84MM ,EL-DISPLAY,6.5378,Purchase Price,6.5378
+541,77e80888de,C390,COTTON WASTE (BANYAN WASTE) 8KG ,COTTON WASTE,8.8,Purchase Price,8.8
+542,7812666b10,E399,DL350 LOP Full GOLD T (TOP) Fourteen Wire Parallel System LED,EL-LOP,9.99594,Purchase Price,0.0
+543,78acd19fc8,E729,Monarch Elevator Gold Push Button Square for COP (DB20) (Alarm) A ,EL-BUTTON,1.251,Purchase Price,1.2513
+544,78c00a7b9b,AC307,G.I CARRIAGE BOLT 10X25MM ,NUT BOLTS & WASHER,0.085,Purchase Price,0.085
+545,78f8caea4a,HY184,"HYDRAULIC HOSE 1/2"" R6 ",HOSE,2.0,Purchase Price,2.0
+546,790707a578,AC252,"G.I BOLT M10 X 30MM, GRADE 8.8",NUT BOLTS & WASHER,0.018,Purchase Price,0.0
+548,7a5a3f923f,E132,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 9,EL-BUTTON,1.872072,Purchase Price,0.0
+550,7b51ae49f9,RM151,MDF BOARD 6MM x 1220 x 2440MM,MDF BOARD,2.2,Purchase Price,2.2
+551,7bae2eb6c9,E408,DL450 LOP Full Silver and Black T (TOP) Four Wire Serial System LED,EL-LOP,8.620776,Purchase Price,8.342
+552,7bde354ea5,C174,METAL PACKING STRIP,PACKING STRIP,2.8,Purchase Price,2.8
+553,7be4807521,RM257,GLASS BEVELING  ,DOOR GLASS,0.8,Purchase Price,0.8
+555,7c0541ac01,E449,Butkon Communication Box and speaker Paradas Plus H15KR0055,EL-PART ITEM,19.26,Purchase Price,0.0
+560,7cf03294fe,E235,Monarch Elevator Silver Push Button Square for COP (DB20) (Close) DC,EL-BUTTON,0.963,Purchase Price,0.9625
+561,7d2f55396a,AC175,ROPE CLAMP 8MM,CLAMP,0.195,Purchase Price,0.115
+562,7d882cce2d,E218,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 12",EL-BUTTON,1.563912,Purchase Price,0.0
+563,7dae4df8bf,RM268,ALLUMINIUM COMPOSITE PANEL 3MM X 4X8 WHITE ,ACP,10.0,Purchase Price,10.0
+564,7e2b5eb521,E588,PVC FLEXIBLE CONDUIT PIPE 20MM BLACK ,GENERAL,2.85,Purchase Price,2.85
+565,7e89f5ca64,MK119,Cabin Handel Gold Mirror (900mmX50mm) pipe type,ME-CABIN,15.1538,Purchase Price,0.0
+567,7f6e7e3e50,LM178,KS 2 Panel Landing Mechanism Right Opening 700mm,ME-RIGHT 700,19.635,Purchase Price,19.635
+570,7fedcfb444,AC269,G.I WASHER M10 X 20MM,NUT BOLTS & WASHER,0.002241,Purchase Price,0.002241
+572,8040074e80,AS190,MS 2 Panel Aluminium Sill 50mm Center Opening for 900mm,ME-CENTER 900,2.695,Purchase Price,2.695
+575,81e40693fe,MK504,"OPTICAL LENS, D27.9x4.1-4K, Code=211LCG0037, ONE SMALL BOX = 5PC  ,  ",ME-PART ITEM,7.508,Purchase Price,1.5015
+580,837435d813,RM266,MDF MOON CHERRY MATT 18MM X 4X8' (MDF-65-18-M-2F) ,MDF BOARD,9.8,Purchase Price,9.8
+581,8399c0ca3c,MSC150,MS 2 Panel Landing Mechanism Metal Safety Cover for 800mm,ME-COVER 800,1.155,Purchase Price,1.155
+582,83afe1d300,AC306,ROPE CLAMP 8MM (C) ,CLAMP,0.108,Purchase Price,0.1078
+584,841fbdd6c8,FC272,DOOR GLASS 6MM CLEAR IRANI TEMPERED ,DOOR GLASS,7.0,Purchase Price,6.4893
+585,8422b04b58,E233,Monarch Elevator Silver Push Button Square for COP (DB20) (Alarm) A,EL-BUTTON,0.963,Purchase Price,0.9625
+586,846f7f2845,CP204,KS 2 Car Panel Left Opening Powder Coating 700X2100,ME-LEFT 700,19.635,Purchase Price,19.635
+587,847f649fa6,MK285,GUSTAV WOLF Elevator Steel Rope reinforced Core (8X19W IWRC 1770 U sz 11MM),ME-ROPE,0.44298,Purchase Price,0.0
+588,84a6481648,E591,"PEDESTAL FAN 24"" (KPF-24) ",EL-GENERAL,14.5,Purchase Price,14.5
+591,8569746dc5,MK122,Cabin Handel Silver HairLine (900mmX40mm) pipe type HM-301F,ME-CABIN,9.907344,Purchase Price,0.0
+592,85811db717,E121,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 1,EL-BUTTON,1.872072,Purchase Price,0.0
+594,85a51e3598,MK449,BELT BROKEN INSPECTION DEVICE SUITABLE FOR 3 BELTS ,ME-PART ITEM,18.715,Purchase Price,18.715
+595,85c43441bd,C372,SILICON BLACK ,SILICON,0.813,Purchase Price,0.813
+596,85d419b2e1,MK327,Shaft/Axle 50X500mm for Elevator Pulley,ME-SAFETY,3.08,Purchase Price,3.104
+597,85e3d4d9b4,C113,"PACKING TAPE 2"" CLEAR",PACKING TAPE,0.3,Purchase Price,0.288
+598,85e7a9ffc8,MK510,"Flat Sliding Guide Shoe T-DX-H32, SIZE 140X120mm for T70/T9 Guide Rail (9mm)  ",ME-SHOES,2.298,Purchase Price,2.2985
+599,85ecd1ef2a,E406,DL450 LOP Full Silver and Black B (Basement) Four Wire Serial System LED,EL-LOP,8.620776,Purchase Price,8.342
+600,85ef09e9b8,MK136,MARAZZI P45L Guide Rail Fish Plate for T5/T45,ME-GENERAL,0.150228,Purchase Price,0.0
+601,866a40c8b1,AC299,GI BOLT M8X15MM ,NUT BOLTS & WASHER,0.0065,Purchase Price,0.0065
+602,86ad89e807,C249,"CUTTING DISC 4.5""",CUTTING DISC,0.38,Purchase Price,0.36
+603,8724d2b445,AC296,ALLEN KEY BOLT BLACK 6X100MM ,ALLEN KEY SET,0.17,Purchase Price,0.16
+605,87c3e48079,C368,GAS FLEXIBLE PIPE 2FT ,GAS FLEXIBLE PIPE,3.2,Purchase Price,3.2
+606,87e35eefc7,MK286,GUSTAV WOLF Elevator Steel Rope reinforced Core (8X19W IWRC 1770 U sz 6.5MM),ME-ROPE,0.416016,Purchase Price,0.3686
+607,87ee64f58e,C208,WOOD GLUE (FOR MARBLE FIXING) 5Kg,WOOD GLUE,4.7,Purchase Price,4.7
+608,883b8784ba,E494,Monarch Brake Resistor 1800W 100RJ,EL-RESISTOR,4.849668,Purchase Price,5.209
+610,8879bf2aa9,MK139,MARAZZI P90L Guide Rail Fish Plate for T16/T90,ME-GENERAL,0.739584,Purchase Price,0.0
+611,887b731890,E255,Monarch Elevator Silver Push Button Square for COP (DB20) (Resturant) R,EL-BUTTON,0.963,Purchase Price,0.9625
+612,8887dcca3a,E151,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 5,EL-BUTTON,1.872072,Purchase Price,0.0
+613,88b83cb2a9,E246,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 6,EL-BUTTON,0.963,Purchase Price,0.0
+614,88c5467fc1,FR253,KS 2 Landing Panel Center Opening Silver Hairline 800X40X120X2100 Frame,ME-CENTER 800,11.55,Purchase Price,11.55
+615,88e0decea6,MK329,Shaft/Axle 60X500mm for Elevator Pulley,ME-SHAFT,4.4352,Purchase Price,4.4698
+616,8941c84b7f,E129,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 6,EL-BUTTON,1.872072,Purchase Price,0.0
+617,894321190c,E211,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Basement) B",EL-BUTTON,1.563912,Purchase Price,0.0
+619,8954f33160,E158,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Lock) L,EL-BUTTON,1.872072,Purchase Price,0.0
+621,89c55b53fa,E136,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Open) DO,EL-BUTTON,1.872072,Purchase Price,0.0
+622,8a129fcf0b,AC312,G.I CARRIAGE BOLT 10X40MM ,NUT BOLTS & WASHER,0.115,Purchase Price,0.115
+624,8adc703ac9,E625,LED BULB 50W ,EL-GENERAL,2.8,Purchase Price,2.8
+625,8b0f4fd195,E719,"LOP DL440 SILVER HAIRLINE (MEDIUM) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",LOP,8.135,Purchase Price,8.1351
+626,8b1c3da493,C183,SAFETY SHOE SIZE-42,SAFETY SHOE,5.2,Purchase Price,5.5
+629,8bdf164bdb,E731,Monarch Elevator Gold Push Button Square for COP (DB20) (Open) DO ,EL-BUTTON,1.251,Purchase Price,1.2513
+632,8c5fbb7073,RM138,MS TUBE 60MMX30MMX3MM X 6M ,MS TUBE,9.0,Purchase Price,6.8
+633,8c9dc8dd74,TL147,HEAT GUN 2000W STANLEY ,HEAT GUN,14.8,Purchase Price,14.8
+635,8ca84e24f3,C252,"FLAP DISC 4.5""",FLAP DISC,0.38,Purchase Price,0.375
+637,8ce19c19dc,C234,"WIRE NAIL 3"" 1KG ",WIRE NAIL,0.82,Purchase Price,0.6
+640,8d7e3c1b1d,AC277,G.I SPRING WASHER M12,NUT BOLTS & WASHER,0.004227,Purchase Price,0.004227
+641,8d95804bf0,C367,HALF BODY MASK 3M ,HALF BODY MASK,17.0,Purchase Price,16.5
+642,8d9d923469,FC274,INTERLOCK TILES 24X24X6CM SILVER ,INTER LOCK TILES,1.6,Purchase Price,1.6
+646,8f91f2ee16,MK376,STAND FOR SAFETY GEAR TURKEY ,SAFETY,8.085,Purchase Price,8.085
+647,8fd57bc6ae,HY212,"HYDRAULIC HOSE 1/2"" X 30CM ",HOSE,3.0,Purchase Price,3.0
+649,9049fc3674,E219,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 2",EL-BUTTON,1.563912,Purchase Price,0.0
+650,906229676c,MSC152,MS 2 Panel Landing Mechanism Metal Safety Cover for 700mm,ME-COVER 700,1.155,Purchase Price,1.155
+651,90c91ad735,FT139,"MS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, RIGHT Lock)",ME-FITTINGS,3.08,Purchase Price,3.08
+652,90e4f6b147,MK455,KS CLOSING SPRING 700MM ,ME-PART ITEM,0.847,Purchase Price,0.847
+653,914c1a950a,AS191,MS 2 Panel Aluminium Sill 50mm Center Opening for 800mm,ME-CENTER 800,2.695,Purchase Price,2.695
+654,91702e32b3,C205,SPRAY PAINT WHITE,SPRAY PAINT,0.6,Purchase Price,0.6
+656,91f1781233,E734,Monarch Elevator Gold Push Button Square for COP (DB20) (Restaurant) R ,EL-BUTTON,1.251,Purchase Price,1.2513
+657,924ef4ec8b,TL134,RIVET GUN STHT69646 ,RIVET GUN,4.8,Purchase Price,4.8
+659,92ae1ef34e,MK415,PVC Gasket Rubber 2mm ,GASKET,1.905,Purchase Price,1.905
+660,92c0323313,C139,TARPOLIN 30X30,TARPOLIN,10.8,Purchase Price,8.9998
+663,93835645a6,FR340,KS 2 Landing Panel Center Opening Silver Mirror GLASS 700X40X120X2100 Frame ,ME-CENTER 700,19.25,Purchase Price,19.25
+664,93a66913cb,E717,RVV (4X6mm?)+(1X4mm?) 3 Phase cable ,EL-WIRE,1.263,Purchase Price,1.2628
+665,93d478be13,E608,AWM STYLE VGA Cable for COP board Monarch 6 Meter,EL-WIRE,1.71,Purchase Price,1.7094
+667,94fc24efd1,C348,"BENCH GRINDING STONE 6"" ",GRINDING DISC,5.8,Purchase Price,5.8
+668,952e09574b,MK335,Flat Sliding Guide Shoe 110X80mm for T70/T9 Guide Rail (10mm),ME-SHOES,0.824328,Purchase Price,0.824
+669,9530fdb6bf,C341,WASH BASIN MIXER TAP ,MIXER TAP,7.8,Purchase Price,7.8
+670,95b23649d4,AC290,"GI BOLT M6X12MM, GRADE 8.8 ",NUT BOLTS & WASHER,0.75,Purchase Price,0.003378
+671,95d2a2112e,RM267,MS SHEET 0.5MM X 4 X8FT ,MS SHEET,4.9,Purchase Price,5.0
+673,95fc60f34a,E801,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (CLOSE) DC ,EL-BUTTON,1.358,Purchase Price,1.358
+676,96abb4eef8,C281,HSS DRILL BIT 11MM,HSS DRILL BIT,1.8,Purchase Price,1.8
+677,9700af9e90,E405,DL450 LOP Black and Gold T (TOP) Thirteen Wire Parallel System LED BIG,EL-LOP,9.984384,Purchase Price,0.0
+678,97836ba31f,E225,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 8",EL-BUTTON,1.563912,Purchase Price,0.0
+680,98480f772f,E154,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 8,EL-BUTTON,1.872072,Purchase Price,0.0
+681,988ecd2937,AC197,ALLEN KEY BOLT SILVER 10X30MM ,NUT BOLTS & WASHER,0.078,Purchase Price,0.078
+682,98c2a578ca,E144,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Floor) 1 ,EL-BUTTON,1.872072,Purchase Price,0.0
+683,98e034f8b8,RM234,SS U CHANNEL SILVER MIRROR FINISH 30 X 15 X 30MM X 3MTR ,SS C-CHANNEL,2.36,Purchase Price,2.36
+684,98eaffa92c,MK464,FIX BOLT FOR MS CLOSING STEEL ROPE ,ME-PART ITEM,0.154,Purchase Price,0.154
+688,995636e76d,RM238,DOOR GLASS MIRROR POLISH 6MM ,DOOR GLASS,10.0,Purchase Price,9.0
+689,997c2cc7c3,AC278,G.I SPRING WASHER M14,NUT BOLTS & WASHER,1.175,Purchase Price,0.00612
+690,99858d657a,E335,MCTC-HCB-U632 LCD for COP display 1400mm 24V Serial system (A3N237642),EL-DISPLAY,13.755492,Purchase Price,0.0
+691,99a2c211e8,E428,MONARCH LOP Full Silver M (Medium) Four Wire Serial System,EL-LOP,9.002,Purchase Price,9.002
+692,99aae345e7,C200,BISON KIT 650ML,BISON KIT,1.65,Purchase Price,1.65
+694,99feed5b36,E793,PROCELL Elevator Light Curtain Door Detector ,EL-SENSOR,19.565,Purchase Price,19.565
+695,9a53f02dba,LM223,KS 2 Panel Landing Mechanism Center Opening 800mm,ME-CENTER 800,15.785,Purchase Price,15.785
+696,9a610ce308,AS164,KS 2 Panel Aluminium Sill 90mm Right Opening for 900mm,ME-RIGHT 900,2.695,Purchase Price,2.695
+698,9ac7dafdd9,E403,DL450 LOP Black and Gold B (Basement) Thirteen Wire Parallel System LED BIG,EL-LOP,9.984384,Purchase Price,0.0
+700,9b1b88f703,MK456,KS CLOSING SPRING 800MM ,ME-PART ITEM,0.847,Purchase Price,0.847
+702,9b8a2190dd,MK147,T9/T70 Guide Rail Clips,ME-GENERAL,0.111708,Purchase Price,0.1117
+703,9ba0f9d462,RM137,MS SQUARE TUBE 38MM X 38MM x 3MM X 6M ,MS TUBE,6.3,Purchase Price,6.3
+704,9bf2032c20,E404,DL450 LOP Black and Gold M (Medium) Thirteen Wire Parallel System LED BIG,EL-LOP,9.984384,Purchase Price,0.0
+707,9c9bee9cc6,AB205,KS 2 Panel Aluminium Base 40X120mm RIGHT Opening for 800mm,ME-RIGHT 800,1.54,Purchase Price,1.54
+708,9cb5d686b3,E215,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 1",EL-BUTTON,1.563912,Purchase Price,0.0
+709,9d293f3b74,AB210,KS 2 Panel Aluminium Base 40X120mm Left Opening for 800mm,ME-LEFT 800,1.54,Purchase Price,1.54
+710,9e11697a78,AC200,G.I THREAD ROD M10 ,THREAD ROD,0.65,Purchase Price,0.65
+711,9e3ffc07f5,GR112,T70/B 5M-Elevator Guide Rails(T-9),GUIDE RAILS,8.913528,Purchase Price,0.0
+714,9ed8fa9d46,AS157,MS 2 Panel Aluminium Sill 90mm Left Opening for 1200mm ,ME-LEFT 1200,7.7,Purchase Price,7.7
+716,9f06f0613c,E345,Elevator Cross Flow Fan 22W,EL-GENERAL,4.6676,Purchase Price,4.6316
+719,9fa8daf742,E237,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 0,EL-BUTTON,0.963,Purchase Price,0.0
+721,a088fc2538,E223,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 6",EL-BUTTON,1.563912,Purchase Price,0.0
+722,a0adae2132,RM144,MS SQUARE TUBE 30MMX30MM X 3MM X 6M ,MS TUBE,4.5,Purchase Price,4.5
+724,a11bf285fb,MK289,Anti Vibration cabin up rubber,ME-ROPE,0.23112,Purchase Price,0.0
+726,a1d4d63cde,C128,EMERY PAPER P-80,EMERY PAPER,0.18,Purchase Price,0.18
+727,a20c279e11,E344,Dumbwaiter Door Contactor passive door switch,EL-GENERAL,0.843588,Purchase Price,0.0
+728,a25f7ced0a,C127,COTTON WASTE CLOTH COLOR,COTTON WASTE,3.8,Purchase Price,3.8
+729,a2f6ac069e,E652,3W LED SPOT Light for cabin Silver Type 3000K Warm white Colour ,EL-LED,0.835,Purchase Price,0.842
+730,a34dd2507d,FR245,MS 2 Landing Panel Right Opening Silver Hairline 800X40X120X2100 Frame,ME-RIGHT 800,16.17,Purchase Price,16.17
+731,a354027120,MK461,SQUARE NUT ,ME-PART ITEM,0.308,Purchase Price,0.308
+734,a38ba498cc,HY167,"Hydraulic Hose Pipe 1/2"" x 4.5Mtr",HOSE,13.0,Purchase Price,13.0
+735,a3e410fd5e,E661,"LOP WITH ELEVATOR CALL FUNCTION 3 FLOOR BLUE BACKLIGHT WITH WHITE FIGURES PUSH BUTTON G+2, TYPE M403 ",LOP,9.837,Purchase Price,17.441
+736,a409e813bf,C250,"GRINDING DISC 4.5""",GRINDING DISC,0.38,Purchase Price,0.4
+737,a42c991702,MSC151,MS 2 Panel Landing Mechanism Metal Safety Cover for 750mm,ME-COVER 750,1.155,Purchase Price,1.155
+738,a4676f69d0,RM261,ACRYLIC SHEET CLEAR 2MM X 4X8' OPAQUE WHITE ,ACRYLIC SHEET,8.499,Purchase Price,8.678
+739,a478a7b55a,AS187,MS 2 Panel Aluminium Sill 90mm Left Opening for 800mm,ME-LEFT 800,2.695,Purchase Price,2.695
+741,a4a10e35b8,E138,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Resturant) R,EL-BUTTON,1.872072,Purchase Price,0.0
+742,a4b6661821,RM287,MS BOX BAR 100 X 100 X 2MM X 6MTR ,MS TUBE,13.333,Purchase Price,13.333
+743,a4caadf42a,MK120,Cabin Handel Silver HairLine (1000mmX40mm) pipe type HM-301F,ME-CABIN,9.907344,Purchase Price,0.0
+745,a4f715fa1e,MK244,Elevator Deflection Pulley (Nylon) (240mm/110mm - 4 CoreX8mm-12) (50mm shaft hole) For MONA200 ,ME-PULLEY,16.32,Purchase Price,16.3202
+746,a504bb3aa6,E595,RVV 4X0.75mm? 4 CORE for Elevator Wiring,EL-WIRE,0.146,Purchase Price,0.1463
+750,a616eae4b8,E733,Monarch Elevator Gold Push Button Square for COP (DB20) (Basement) B ,EL-BUTTON,1.251,Purchase Price,1.2513
+751,a6793069e8,E253,Monarch Elevator Silver Push Button Square for COP (DB20) (Open) DO,EL-BUTTON,0.963,Purchase Price,0.9625
+752,a683b8249b,FR334,KS 2 Landing Panel Left Opening Powder Coating 700X40X120X2100 Frame,ME-LEFT 700,11.55,Purchase Price,11.55
+755,a6e621dd06,C273,HSS DRILL BIT 3MM,HSS DRILL BIT,0.25,Purchase Price,0.25
+756,a6ef9fd10b,MK133,Elevator Thimble Rod for Rope Attachment 8mm,ME-ROPE,1.140192,Purchase Price,0.747
+757,a724563053,MK450,"Elevator Thimble Rod for Belt Pulley Motor, Belt Width - 30mm ",ME-ROPE,3.207,Purchase Price,3.207
+759,a8911320b4,E128,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 5,EL-BUTTON,1.872072,Purchase Price,0.0
+760,a8c3d3ab0d,C328,"MS HINGES 2"" ",MS HINGES,0.08,Purchase Price,0.072
+763,a9e60ebc86,TL145,RACHIT SPANNER 19MM ,RACHIT SPANNER,3.45,Purchase Price,3.45
+764,aa18cd09bb,AC257,"G.I BOLT M14 X 40MM, GRADE 8.8",NUT BOLTS & WASHER,0.040625,Purchase Price,0.040625
+765,aa975bc5ef,C136,PLASTIC PACKING ROLL (STRECH FILM) ,PLASTIC PACKING ROLL,1.4,Purchase Price,1.0
+766,aaf3027b93,MK439,STEEL BELT PULLEY WITH SHAFT 2CORE (Z302010007) ,PULLEY,16.155,Purchase Price,16.155
+767,aaffd39a3a,TL149,HYD. SEAL TWISTOR TOOL ,SEAL TWISTOR,15.4,Purchase Price,15.4
+768,ab15a11ee9,MK125,Cabin Handel Silver Mirror (1000mmX50mm) pipe type,ME-CABIN,10.9012,Purchase Price,0.0
+770,ab436d9593,FC261,GLASS FRAUSTED ,DOOR GLASS,4.0,Purchase Price,4.0
+772,abaa19c697,MK124,Cabin Handel Silver Mirror (1000mmX40mm) pipe type HM-301J,ME-CABIN,10.90116,Purchase Price,0.0
+773,acf27bdf4f,C209,SPRAY PAINT SILVER,SPRAY PAINT,0.45,Purchase Price,0.475
+774,ad0a26bedc,MK112,Cabin Handel DOUBLE Gold Mirror (900mmX25mm)X2 pipe type HM202TJ,ME-CABIN,16.328628,Purchase Price,0.0
+775,ad182da96d,E483,Programing card/board for Monarch Controller MCTC-PG-A2,EL-PART ITEM,11.166948,Purchase Price,0.0
+777,ad31df366e,C275,HSS DRILL BIT 5MM,HSS DRILL BIT,0.385,Purchase Price,0.385
+778,ad429ca8d3,MK146,T16/T90 Guide Rail Clips,ME-GENERAL,0.169488,Purchase Price,0.0
+780,ae5c5d7491,MK332,Elevator adjustable cabin guide shoe for T90/T16 Guide Rail (16mm),ME-SHOES,1.667916,Purchase Price,1.668
+783,af283808b1,MK476,"GI ELBOW MALE/FEMALE 1/2"" T ",ME-GENERAL,0.45,Purchase Price,0.45
+784,af620becce,E434,24V General Purpose Relay OMRON BM-G2R2 DC24 With Base Support (14FF-2Z-C3) with 2set Transfer Switches ,EL-PART ITEM,3.258792,Purchase Price,3.2825
+785,afe5e9eaa5,RM203,SS SHEET G304 (1219X2438X0.8mm) CHAMPAGNE GOLD MIRROR,SS SHEET,18.5,Purchase Price,18.5
+786,b0de33f57c,MK135,HJ Rubber Cushion for Bottom of Car,ME-GENERAL,1.070856,Purchase Price,0.0
+788,b1b085d741,AC260,"G.I BOLT M16 X 100MM, GRADE 8.8",NUT BOLTS & WASHER,0.108333,Purchase Price,0.108333
+790,b29f01fb04,E659,"LOP WITH ELEVATOR CALL FUNCTION 2 FLOOR BLUE BACKLIGHT WITH WHITE FIGURES PUSH BUTTON G+1, TYPE M402 ",LOP,8.663,Purchase Price,16.267
+791,b2d07125f8,E360,MONARCH Elevator Room MR Distribution Power Box,EL-REVISION BOX,11.871864,Purchase Price,0.0
+792,b3356b07cc,E462,Encoder Wire (17m) for HEIDENHAIN type encoder ERN-1387,EL-PART ITEM,10.084536,Purchase Price,0.0
+793,b33844254d,E727,Monarch Elevator Gold Push Button Square for COP (DB20) (Floor) 1 ,EL-BUTTON,1.251,Purchase Price,1.2513
+794,b38533a8c8,E354,Limit Switch 2A AC15/DC13,EL-GENERAL,0.839736,Purchase Price,0.0
+795,b38d6897d6,AB161,MS 2 Panel Aluminium Base 40X120mm Left Opening for 1200mm ,ME-LEFT 1200,11.55,Purchase Price,11.55
+796,b39605f52e,FR296,MS 2 Landing Panel Center Opening Silver Hairline 900X40X120X2100 Frame,ME-CENTER 900,12.32,Purchase Price,12.32
+797,b487b8c7ca,E678,CONNECTOR FOR LED STRIP LIGHT ODFJ0213SA ,LED STRIP LIGHT,0.3,Purchase Price,0.3
+798,b4dcb01260,AC249,"G.I BOLT M8 X 20MM, GRADE 8.8",NUT BOLTS & WASHER,0.007831,Purchase Price,0.007831
+799,b5080e00a4,C364,PACKING STRIP 10KG (PLASTIC) ,PLASTIC PACKING ROLL,9.8,Purchase Price,9.8
+801,b62f0af3c7,RM248,SS SHEET 0.8MM X 4X8Ft GR304 BROWN HAIRLINE ,SS SHEET,18.007,Purchase Price,18.007
+804,b6bc3153e4,E398,DL350 LOP Full GOLD M (Medium) Fourteen Wire Parallel System LED,EL-LOP,9.99594,Purchase Price,0.0
+805,b6f7ac0cc6,AC185,JOINT ALLEN KEY BOLT SILVER 10MM X 25MM,NUT BOLTS & WASHER,0.086,Purchase Price,0.086
+807,b74fe6de8b,E366,COP intercom NKT12(1-1)BX DC12V Monarch,EL-INTERCOM,3.0,Purchase Price,5.313
+808,b7929a560b,RM111,MS SHEET 3MM x 1220 x 2440MM (3mm x 4 x 8Ft),MS SHEET,17.5,Purchase Price,17.2
+809,b7aa5b07f8,C388,MARBLE CHALK ,CHALK,3.5,Purchase Price,3.5
+812,b7d99952bc,E245,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 5,EL-BUTTON,0.963,Purchase Price,0.0
+813,b7e295322b,MK150,White Plastic Oil cup for Guide Rails,ME-GENERAL,0.381348,Purchase Price,0.3812
+814,b88c135439,AS201,KS 2 Panel Aluminium Sill 90mm Left Opening for 700mm,ME-LEFT 700,2.695,Purchase Price,2.695
+816,b94832c796,E522,Monarch COP Jack connector Button Socket 600MM (A3W62008P21L04),EL-SOCKETS,0.5,Purchase Price,0.0
+817,b9a82f98a0,RM239,DOOR GLASS CLEAR TEMPER POLISH 6MM ,DOOR GLASS,6.0,Purchase Price,7.5
+818,b9d13bbde1,MK377,Hidden type swing door closer,GENERAL,9.1878,Purchase Price,0.0
+819,ba2dd71afd,AC178,ALLEN KEY BOLT BLACK 10MM X 30MM,NUT BOLTS & WASHER,0.086,Purchase Price,0.0
+820,ba5f1e1577,E720,"LOP DL440 SILVER HAIRLINE (TOP) WITHOUT BACK BOX, LCD DISPLAY (HCB-U633, WITH BLACK BACK COLOR AND WHITE CHARACTORS), PUSH BUTTON DB10 WHITE LIGHT ",LOP,8.135,Purchase Price,8.1351
+821,ba806eea95,E732,Monarch Elevator Gold Push Button Square for COP (DB20) (Close) DC ,EL-BUTTON,1.251,Purchase Price,1.2513
+822,ba87830d54,LM179,KS 2 Panel Landing Mechanism Right Opening 900mm,ME-RIGHT 900,19.635,Purchase Price,19.635
+823,bc84964c84,RM139,MS TUBE 80MM x 40MM x 3MM x 6M,MS TUBE,10.0,Purchase Price,9.7
+824,bcc9e431c0,TL123,DRILL MACHINE CHUK KEY,DRILL MACHINE CHUK KEY,1.8,Purchase Price,2.2
+825,bcd0d0d3f1,E481,Monarch Programing card/board for Monarch Controller MCTC-PG-F1,EL-PART ITEM,11.166948,Purchase Price,0.0
+827,bd544dbd08,MK233,MS Landing Door Spring,ME-PART ITEM,1.1556,Purchase Price,1.733
+828,bd67c0cc79,FR285,MS 2 Landing Panel Left Opening Powder Coating 800X40X120X2100 Frame,ME-LEFT 800,11.55,Purchase Price,11.55
+829,bdf16d1cc7,E484,PVC Connectors and Sockets for Monarch Controllers (1PKT 100pcs),EL-PART ITEM,5.621,Purchase Price,5.621
+830,be13a60cac,GR111,T45/A 5M-Elevator Guide Rails(T-5),GUIDE RAILS,4.580028,Purchase Price,0.0
+831,be2f1f5b04,AS198,KS 2 Panel Aluminium Sill 90mm RIGHT Opening for 700mm,ME-RIGHT 700,2.695,Purchase Price,2.695
+834,bfe772d530,AB173,KS 2 Panel Aluminium Base 40X120mm Right Opening for 700mm,ME-RIGHT 700,1.54,Purchase Price,1.54
+835,c0cf92a48e,C178,TARPOLIN 40X40,TARPOLIN,19.2,Purchase Price,19.2
+836,c0edb9ddf1,C254,"CONCRETE CUTTING DISC (DIAMOND DISC) 4.5"" ",CONCRETE CUTTING DISC,3.4,Purchase Price,3.4
+837,c117544274,AC258,"G.I BOLT M14 X 60MM, GRADE 8.8",NUT BOLTS & WASHER,0.054167,Purchase Price,0.054167
+838,c12fb47c31,E156,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Ground) G ,EL-BUTTON,1.872072,Purchase Price,0.0
+839,c191c2c925,E142,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Fan) F,EL-BUTTON,1.872072,Purchase Price,0.0
+840,c19b04d899,MK391,Cabin Handel Silver Hairline Flat Type (900mmx650x80mm) HM-313F,ME-CABIN,13.6615,Purchase Price,0.0
+841,c1ad8a79c7,AS202,KS 2 Panel Aluminium Sill 50mm Center Opening for 900mm,ME-CENTER 900,2.695,Purchase Price,2.695
+845,c29dd400c7,E250,Monarch Elevator Silver Push Button Square for COP (DB20) (Ground) G,EL-BUTTON,0.963,Purchase Price,0.9625
+846,c2d519367c,TL119,"AVIATION SNIPS (CUTTER 10"" RIGHT)",AVIATION SNIPS,3.0,Purchase Price,3.0
+848,c32d804609,TL144,BOX SPANNER 6PT LONG 13MM ,RACHIT SPANNER,1.85,Purchase Price,1.85
+849,c337476005,RM152,MDF BOARD 12MM x 1220 x 2440MM,MDF BOARD,4.35,Purchase Price,4.4
+850,c370c7af8b,MK544,TRAVEL BASE WITHOUT BRACKET FOR TRAVEL WIRE (IRANI) ,ME-GENERAL,0.13,Purchase Price,0.13
+851,c3af348efe,MK457,MS DOOR ROLLER BOLT ,ME-PART ITEM,0.154,Purchase Price,0.154
+852,c479136dd5,C349,"GARDEN TAP 1/2"" ",GARDEN TAP,1.7,Purchase Price,1.7
+853,c4e92bb38e,E658,PVC Connectors and Sockets Small size for Monarch Controllers 5.5KW(1pkt 100pcs) ,EL-PART ITEM,5.621,Purchase Price,5.621
+855,c51a2192d6,MK129,Dumbwaiter Door Joint Leteral Drive Safety Locks Double,ME-GENERAL,2.451798,Purchase Price,0.0
+857,c5730b79a2,E730,Monarch Elevator Gold Push Button Square for COP (DB20) (Intercom) I ,EL-BUTTON,1.251,Purchase Price,1.2513
+859,c5c2d48753,E654,SCHNEIDER CONTACTOR FOR INTERFACE BOARD WITH BOTH SIDE INSERT PART ,PART ITEM,6.326,Purchase Price,6.326
+860,c5fa219942,C182,SAFETY SHOE SIZE-40,SAFETY SHOE,5.2,Purchase Price,5.5
+864,c6d6621f90,MK204,BST Elevator triangle lock with spring for landing door Left,ME-PART ITEM,0.677952,Purchase Price,0.0
+865,c7114654e8,MK140,"NBSL Laminated Glass for Elevator Door 700X2100, 1793(1763)X278(248), 5+0.76+5 LEFT SIDE",ME-GENERAL,10.103796,Purchase Price,0.0
+866,c71f04f2a6,C115,"PVC TAPE 2"" BLACK",PVC TAPE,0.3,Purchase Price,0.3
+867,c762d4bfe8,AB193,MS 2 Panel Aluminium Base 40X120mm Center Opening for 900mm,ME-CENTER 900,1.155,Purchase Price,1.155
+872,c91c7158b9,LM215,KS 2 Panel Landing Mechanism RIGHT Opening 800mm,ME-RIGHT 800,19.635,Purchase Price,19.635
+873,c9d2110beb,E803,ELEVATOR SILVER PUSH BUTTON FOR COP (SL40) (IRANI) (FLOOR) 1 ,EL-BUTTON,1.358,Purchase Price,1.358
+874,ca0b318151,AC289,"FITTING ITEMS (RIBBON, TAPE, CABLE TIE, SCREW, CLIPS WASHER, WALL PLUG, RIVETS, BOLTS, TERMINAL ETC.) ",FITTINGS,5.194,Purchase Price,5.1937
+876,cad3cbb27b,MK318,Pit Buffer stand 800-4800KG 130mm/150mm,ME-SAFETY,2.056968,Purchase Price,0.0
+877,cadf60a171,C344,PAD LOCK LONG 50MM ,PAD LOCK,1.8,Purchase Price,2.4
+878,cb1617511d,MK338,Roller Guide Shoe for (Guid Rail T16mm &amp; T90mm),ME-SHOES,13.175,Purchase Price,13.1747
+879,cb77c54e1e,E161,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Resturant) R,EL-BUTTON,1.872072,Purchase Price,0.0
+880,cbaa6b1338,LM226,KS 2 Panel Glass Landing Mechanism Center Opening 700mm,ME-CENTER 700,15.785,Purchase Price,15.785
+881,cbf4f5247e,RM247,SS U CHANNEL G201 SILVER MIRROR FINISH 30 X 16 X 30 X 0.8MM X 3MTR ,SS C-CHANNEL,1.55,Purchase Price,1.5495
+883,cc1d384cdc,RM229,MS SHEET 0.85MM X 4X8' (COLD ROLLED SHEET) ,MS SHEET,7.4,Purchase Price,7.4
+885,cc4305ef45,E370,3W LED SPOT Light Silver for cabin 6500k Cold White Colour ,EL-LED,0.90522,Purchase Price,0.842
+888,cd229c9703,C155,"PLASTIC BAG 8X16""",PLASTIC BAG,0.9,Purchase Price,0.9
+889,cd4b5ba5f1,RM217,MDF BOARD 18MM x 1220 x 2440MM ,MDF BOARD,6.2,Purchase Price,6.3
+890,cd571ee6fd,C172,COVERALL BLUE LARGE,COVERALL,2.15,Purchase Price,2.15
+893,ce0b0dfbd0,E116,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Alarm) A,EL-BUTTON,1.872072,Purchase Price,0.0
+894,ce4e077497,FR308,MS 2 Landing Panel Center Opening Gold Mirror 800X40X120X2100 Frame,ME-CENTER 800,16.94,Purchase Price,16.94
+895,ce6a2a1438,C391,MACHINE SCREW M5X25MM ,SCREW,0.032,Purchase Price,0.032
+896,ce88ef2348,RM128,MS C-CHANNEL 75MM x 40MM x 5MM X 6M ,MS C-CHANNEL,11.0,Purchase Price,11.0
+897,ce8fbd6a11,E224,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 7",EL-BUTTON,1.563912,Purchase Price,0.0
+898,cec1892f07,E226,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 9",EL-BUTTON,1.563912,Purchase Price,0.0
+899,ced56de968,C116,"MASKING TAPE 1""",MASKING TAPE,0.1,Purchase Price,0.15
+903,cfc3b1514b,C329,GLASS CLEANER 800ML ,GLASS CLEANER,0.75,Purchase Price,0.75
+905,d0109a2a2b,E458,DC220V Power board for controller monarch,EL-PART ITEM,14.941908,Purchase Price,0.0
+906,d01f3adcf0,MK436,Elevator Deflection Pulley NE240 (Nylon) (240m- 7 CoreX8mm-12) (60mm shaft hole) Shaft length 500mm New Type (HRB 6312-RZ) ,PULLEY,16.9944,Purchase Price,16.9944
+908,d05ca342db,E372,6W LED STRIP TUBE LIGHT,EL-LED,0.963,Purchase Price,1.0
+909,d064758315,FT144,"KS 2 Panel Landing Mechanism Fittings (Clip, Nut Bolts, Panel Rod, Shoe, Weight, Pipe)",ME-FITTINGS,3.465,Purchase Price,3.465
+911,d0890d223c,E597,RVV 2X2X0.75mm? 4 CORE for Elevator Wiring (LOP),EL-WIRE,0.193,Purchase Price,0.1925
+912,d0bc86e0e2,MK115,Cabin Handel Gold HairLine (900mmX40mm) pipe type HM-301TF,ME-CABIN,14.090616,Purchase Price,0.0
+913,d0f4439d4c,AC263,G.I NUT M10,NUT BOLTS & WASHER,0.005481,Purchase Price,0.005481
+917,d1c38ddee0,C189,WELDING GLASS BLACK,WELDING GLASS,0.1,Purchase Price,0.1
+918,d223fc9ca0,E728,Monarch Elevator Gold Push Button Square for COP (DB20) (Floor) 2 ,EL-BUTTON,1.251,Purchase Price,1.2513
+919,d2b133f02c,FT146,"KS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, Left Lock)",ME-FITTINGS,3.465,Purchase Price,3.465
+920,d2b47bcbaf,E810,3PHASE RUBBER FLEXIBLE CABLE 4CX6MM ,EL-WIRE,1.75,Purchase Price,1.75
+922,d2ef59a116,FR341,KS 2 Landing Panel Center Opening Powder Coating 700X40X120X2100 Frame,ME-CENTER 700,8.085,Purchase Price,8.085
+925,d32d8424e4,FT148,"KS 2 Panel Car Operator Fittings (Bracket, Nut Bolts, Panel Rod, Shoe, Key)",ME-FITTINGS,3.08,Purchase Price,3.08
+926,d37a3cc858,C195,MIG WELDING WIRE 1.2MM 15Kg (MWA-70S-6),MIG WELDING WIRE,12.5,Purchase Price,12.8
+929,d487e11069,MK437,Elevator Deflection Pulley NE240 (Nylon) (240mm - 7 CoreX8mm-12) ( with Shaft 60X60X200mm) Shaft length 200mm Old Type (HRB 6312-RZ) ,PULLEY,18.663,Purchase Price,18.663
+930,d4aa8144d3,FR247,MS 2 Landing Panel Center Opening Silver Mirror 800X40X120X2100 Frame,ME-CENTER 800,15.015,Purchase Price,15.015
+931,d4bd883d49,TL155,"RIGHT ANGLE 6"" ",RIGHT ANGLE,3.2,Purchase Price,3.2
+932,d4dceb5e57,E221,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 4",EL-BUTTON,1.563912,Purchase Price,0.0
+933,d5428576da,MK516,Elevator Deflection Pulley NE240 (Nylon) (240mm - 7 CoreX6.5mm-10mm) (with Shaft 50mm X200mm) For Zeihl-Abegg Motor ,ME-PULLEY,14.472,Purchase Price,14.472
+934,d5cfe7482b,MK113,Cabin Handel DOUBLE Silver Mirror (900mmX25mm)X2 pipe type HM202J,ME-CABIN,15.951132,Purchase Price,0.0
+935,d604a43aa6,FR241,KS 2 Landing Panel Right Opening Silver Hairline 800X40X120X2100 Frame,ME-RIGHT 800,11.55,Purchase Price,11.55
+936,d61051ea43,MK379,T5/T45 Guide Rail Clips,GENERAL,0.091,Purchase Price,0.0905
+937,d64c1fdce2,E427,MONARCH LOP Full Silver B (Basement) Four Wire Serial System,EL-LOP,9.002,Purchase Price,9.002
+938,d69a3fda0e,C135,SAFETY SHOE SIZE-41,SAFETY SHOE,5.2,Purchase Price,5.5
+939,d6a78eef71,MSC159,KS 2 Panel Landing Mechanism Metal Safety Cover for 900mm,ME-COVER 900,1.54,Purchase Price,1.54
+940,d6e80c37bc,FR226,MS 2 Landing Panel Left Opening Silver Hairline 1200X40X120X2100 Frame ,ME-LEFT 1200,19.25,Purchase Price,19.25
+941,d6f38a5517,RM230,ALLUMINIUM CLADING SHEET 4X8' SMOKE SILVER ,ALLUMINIUM SHEET,10.3,Purchase Price,10.298
+942,d78d8cb830,LM177,KS 2 Panel Glass Landing Mechanism Center Opening 900mm,ME-CENTER 900,15.785,Purchase Price,15.785
+943,d7b2bef178,AB175,MS 2 Panel Aluminium Base 40X120mm Center Opening for 750mm,ME-CENTER 750,1.155,Purchase Price,1.155
+944,d82863b7f3,E602,RVV (3X6mm?)+(1X4mm?) 3 Phase cable,EL-WIRE,1.001,Purchase Price,1.001
+945,d84f9acabd,AC297,ALLEN KEY BOLT BLACK M6X25 ,NUT BOLTS & WASHER,0.065,Purchase Price,0.065
+948,d8b1f72930,E479,Monarch Power Transfer board (7 segment Parallel system to Serial System) MCTC-HCB-B,EL-PART ITEM,4.499136,Purchase Price,0.0
+953,d979c31632,MK141,"NBSL Laminated Glass for Elevator Door 800X2100, 1793(1763)X328(298), 5+0.76+5 LEFT SIDE",ME-GENERAL,11.9412,Purchase Price,0.0
+954,d9ec098c86,C334,HSS DRILL BIT 25MM ,HSS DRILL BIT,5.85,Purchase Price,5.85
+955,d9f3103b5b,E159,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Open) DO ,EL-BUTTON,1.872072,Purchase Price,0.0
+956,da0642713c,E234,Monarch Elevator Silver Push Button Square for COP (DB20) (Basement) B,EL-BUTTON,0.963,Purchase Price,0.9625
+957,da22fd84dd,E805,COP CLAMP (LOCK) ,ME-GENERAL,0.233,Purchase Price,0.233
+961,dbb0201211,C333,POWDER PAINT POLYSTER SMOOTH 10KG RAL-7042 ,POWDER PAINT,15.0,Purchase Price,15.0
+962,dbb988eead,HY183,"Hydraulic Hose Pipe 1/2"" x 4Mtr ",HOSE,12.0,Purchase Price,12.0
+964,dc6f173c20,C224,SPATTER RELEASE SPRAY,SPATTER RELEASE SPRAY,4.8,Purchase Price,4.8
+965,dc8a62fd35,HY185,HYDRAULIC OIL VG-68 1X20LTR (PETRONAS) ,HYDRAULIC OIL,14.0,Purchase Price,14.0
+966,dcc8b89769,C343,HIGH BONDING ADHESIVE 400ML ,ADHESHIVE GLUE,2.5,Purchase Price,2.5
+968,dd4054b361,E149,BST Elevator Silver Push Button for COP (MA2J00) (A4N18839 19/5/6) (Intercom) I ,EL-BUTTON,1.872072,Purchase Price,0.0
+970,dd4ec479db,E514,ELD Overload Magnet Sensor 24V,EL-SENSOR,3.231828,Purchase Price,0.0
+971,de22cffebb,TL129,"NOSE PLIER 8""",NOSE PLIER,3.85,Purchase Price,3.85
+973,de3f5b88bd,MK111,Antinoise material sticky pad for cabin wall 300X500,ME-CABIN,1.147896,Purchase Price,0.0
+974,de45365855,E713,HEIDENHAIN ENCODER CABLE LENGTH=7M FOR ECN1313 ENCODER WITH MONARCH PG CARD ,EL-PART ITEM,4.786,Purchase Price,4.7856
+975,de7c84c931,C181,SAFETY SHOE SIZE-44,SAFETY SHOE,5.2,Purchase Price,5.2
+976,def5b9a417,C379,CARGO CHARGES ,CARGO,8.4,Purchase Price,10.0
+977,df47c6aa12,FR240,KS 2 Landing Panel Right Opening Powder Coating 900X40X120X2100 Frame,ME-RIGHT 900,13.475,Purchase Price,13.475
+978,df5c96a6d0,E130,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 7,EL-BUTTON,1.872072,Purchase Price,0.0
+979,df7376e910,RM284,ALUMINIUM COMPOSITE PANEL IVORY(1033) 3MM X 2440 X 1220MM  ,ACP,10.0,Purchase Price,10.0
+980,e0003c7b8f,E227,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Ground) G",EL-BUTTON,1.563912,Purchase Price,0.0
+981,e020124a8b,MK555,Elevator Steel Wire Rope reinforced Core 6mm ,ME-ROPE,0.165,Purchase Price,0.165
+982,e02848da2d,AB201,MS 2 Panel Aluminium Base 40X120mm Center Opening for 700mm,ME-CENTER 700,1.155,Purchase Price,1.155
+984,e055e24264,E146,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Floor) 11,EL-BUTTON,1.872072,Purchase Price,0.0
+985,e0654981d6,C302,13A PLUG TOP,PLUG TOP,0.4,Purchase Price,0.5
+987,e0ba9e0e67,E423,MONARCH LOP Full GOLD and Black T (TOP) Four Wire Serial System,EL-LOP,9.282,Purchase Price,0.0
+988,e0d062f8d9,E371,40W LED DUST PROOF LIGHT,EL-LED,0.55,Purchase Price,0.55
+989,e0d88a3b21,MK114,Cabin Handel Gold HairLine (1000mmX40mm) pipe type HM-301TF,ME-CABIN,14.090616,Purchase Price,0.0
+991,e0f2a4e62d,AB212,KS 2 Panel Aluminium Base 40X120mm Left Opening for 700mm,ME-LEFT 700,1.54,Purchase Price,1.54
+992,e10e075c1b,C192,MIG GUN CONICAL NOZZLE SMALL 15MM,MIG CONICAL NOZZLE,1.65,Purchase Price,1.65
+993,e134ae47a7,E364,Butkon intercom telephone for Arcube,EL-INTERCOM,5.3928,Purchase Price,0.0
+994,e1443f2ad3,E735,"TOUCH TYPE LOP ROUND WITH GOLD FRAME, TYPE: BSM-LOP312, 78MM FOR MONARCH CONTROLLER ",EL-LOP,9.074,Purchase Price,9.0745
+996,e15b385c00,E596,RVV 3X0.75mm? 3 CORE for Elevator Wiring,EL-WIRE,0.112,Purchase Price,0.1117
+998,e1bd97e998,MSC149,MS 2 Panel Landing Mechanism Metal Safety Cover for 900mm,ME-COVER 900,1.155,Purchase Price,1.155
+999,e1bf020fb9,TL139,ALLEN KEY SET 7PCS 4-69-262 ,ALLEN KEY SET,3.8,Purchase Price,3.7
+1001,e24619d0f2,C337,WIRE CONNECTOR 6 KM ,WIRE CONNECTOR,4.8,Purchase Price,4.8
+1002,e261cb997d,TL148,"GRIP PLIER 10"" STANLEY ",GRIP PLIER,5.6,Purchase Price,5.6
+1003,e2c01c0b06,AC254,"G.I BOLT M12 X 30MM, GRADE 8.8",NUT BOLTS & WASHER,0.025,Purchase Price,0.025
+1004,e2d4e81aab,E593,LED DOWN ROUND LIGHT 30W ,EL-GENERAL,0.6,Purchase Price,2.8
+1006,e328a063b9,C378,POWDER PAINT SILVER METALIC 9006SM 1X15KG ,POWDER PAINT,2.2,Purchase Price,2.2
+1007,e35060fe5e,RM277,MS TUBE (BOX BAR) 40X20X3MM ,MS TUBE,4.9524,Purchase Price,4.9206
+1008,e38e18f14a,TL121,"AVIATION SNIPS (CUTTER 10"" CENTER)",AVIATION SNIPS,3.8,Purchase Price,3.8
+1010,e3b7b9ec42,RM242,"WHITE WOOD 2X4"" (38 X 80MM) ",WHITE WOOD,1.85,Purchase Price,1.75
+1011,e3f5d12e01,MK282,"Elevator Balance Compensating Chain (elastic rubber coated, anti-rust)",ME-PULLEY,1.278864,Purchase Price,0.0
+1012,e403083e3a,E411,DL450 LOP Gold and Black T (TOP) Four Wire Serial System LED BIG,EL-LOP,9.59148,Purchase Price,0.0
+1013,e403553d57,C190,CARBIDE BURR YG8  (LX1228M06),CARBIDE BURR,3.8,Purchase Price,3.8
+1016,e4db8ac4ef,AC292,ALLEN KEY BOLT 8X20MM SILVER ,NUT BOLTS & WASHER,0.092,Purchase Price,0.098
+1017,e4ea1cd4b7,E402,DL410 LOP Silver Black T (TOP) Twenty Wire Parallel System LED,EL-LOP,9.922752,Purchase Price,0.0
+1018,e5a1d294da,C153,COVERALL BLUE MEDIUM,COVERALL,2.15,Purchase Price,2.15
+1020,e5c8e17c34,E626,2 PIN W/HOLDER E27 ,EL-GENERAL,0.6,Purchase Price,0.6
+1021,e5ddac4120,HY219,"HYDRAULIC HOSE WITH FITTINGS 1/2"" X 3.20MTR ",HOSE,9.667,Purchase Price,9.667
+1022,e627183da8,MK197,BST Door Contact (Lock) with two roller Left,ME-PART ITEM,2.072376,Purchase Price,0.0
+1023,e639bd144a,MK469,Metal Counter Weight 64 (10X8cm) 1X39.5KG ,COUNTER WEIGHT,4.345,Purchase Price,4.345
+1025,e68c2d8e60,E127,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 4,EL-BUTTON,1.872072,Purchase Price,0.0
+1026,e6a21a01bd,RM244,MS ROUND BAR 16MM ,MS ROD,3.5,Purchase Price,3.5
+1027,e70b16a021,E220,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Floor) 3",EL-BUTTON,1.563912,Purchase Price,0.0
+1028,e721572d5d,FT141,"MS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, Center Lock)",ME-FITTINGS,3.08,Purchase Price,3.08
+1029,e725067c63,E131,BST Elevator Gold Push Button for COP (A4N18839 19/5/6) (Floor) 8,EL-BUTTON,1.872072,Purchase Price,0.0
+1030,e77d4cbc7c,MK240,Steel rope rolling pulley 75mm X 4mm rope for Dumbwaiter,ME-PART ITEM,0.843588,Purchase Price,0.0
+1033,e92a22afb4,FC260,6MM GLASS MIRROR CUTTING CHARGE ,DOOR GLASS,0.86,Purchase Price,10.0
+1034,e947e90dbf,C305,CABLE TIE 150X2.5 WHITE,CABLE TIE,0.55,Purchase Price,0.55
+1036,e9b62eef52,FR318,MS 2 Landing Panel Center Opening Powder Coating 700X40X120X2100 Frame,ME-CENTER 700,10.01,Purchase Price,10.01
+1038,ea12b1fbee,AB162,MS 2 Panel Aluminium Base 40X120mm Left Opening for 1300mm ,ME-LEFT 1300,2.31,Purchase Price,2.31
+1039,ea7bfedf0c,C303,METAL SOCKET BOARD 13A,METAL SOCKET BOARD,3.2,Purchase Price,3.2
+1041,eb0802012e,MK509,TRAVEL BASE WITHOUT BRACKET FOR TRAVEL WIRE ,ME-GENERAL,0.597,Purchase Price,0.5968
+1042,eb9466c81c,C387,ANGLE VALVE ,ANGLE VALVE,1.6,Purchase Price,1.6
+1043,ebb1409995,C201,PATTEX GLUE 380GMS,PATTEX GLUE,2.25,Purchase Price,2.25
+1044,ec6b6f1874,E519,WECO Photoelectronical Switch (Leveling Sensor),EL-SENSOR,2.919816,Purchase Price,2.6565
+1045,edd0c2ad22,E327,Arkel Dot Matrix COP Display Serial system (T1-2201394) BCD-3X-KIR small,EL-DISPLAY,4.587732,Purchase Price,0.0
+1046,ee94b20994,E336,Acrylic cover for COP LED (BIG) Dark Color 230X300mm ,EL-DISPLAY,0.71262,Purchase Price,1.0434
+1048,ef22ac7316,E229,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Lock) L",EL-BUTTON,1.563912,Purchase Price,0.0
+1050,ef59209cd8,C253,KNIFE BLADE 1X10PC,KNIFE BLADE 1X10PC,0.8,Purchase Price,0.8
+1051,efd1990d41,RM273,MDF SHEET 18MM SCRAP & CUTTING ,MDF BOARD,8.0,Purchase Price,8.0
+1052,f05cf3f8c0,E711,"WIRES LENGTH 400MM ONE TERMINAL SOCKET FOR MCTC-HCB-672 & U632 & 8@ TFT, WITHOUT SOCKET ",EL-WIRE,0.223,Purchase Price,0.2233
+1053,f0a0aa2bf9,E667,CAR TOP BOX FOR DUMBWAITER (TERMINAL TYPE INSPECTION BOX) ,EL-REVISION BOX,5.227,Purchase Price,5.227
+1054,f11d344381,MK435,SHAFT CLAMP TURKEY (SIDE BET) ,SHAFT CLAMP,1.348,Purchase Price,1.348
+1055,f15c58f574,TL153,AIR OPERATED DRILL MACHINE ,DRILL MACHINE,8.801,Purchase Price,8.8011
+1056,f25e29537d,E761,Dark Acrylic cover for COP LED Display (XLarge) 350x220mm ,EL-DISPLAY,3.387,Purchase Price,3.387
+1058,f31f060e44,MK284,GUSTAV WOLF Elevator Steel Rope reinforced Core (8X19W IWRC 1770 U sz 10MM),ME-ROPE,0.36594,Purchase Price,0.0
+1059,f32f5719d1,AB218,KS 2 Panel Aluminium Base 40X120mm Center Opening for 700mm,ME-CENTER 700,1.155,Purchase Price,1.155
+1060,f3582a9f3b,MSC142,KS 2 Panel Car Operator Metal Safety Cover for 700mm,ME-COVER 700,1.1556,Purchase Price,0.0
+1064,f4ab8afa4a,HY171,HYDRAULIC OIL VG-68 1X20LTR (MOBIS) ,HYDRAULIC OIL,14.286,Purchase Price,15.238
+1068,f6fc42edde,MK246,Elevator Deflection Pulley (Nylon) (240mm/110mm - 5 CoreX8mm-12) (50mm shaft hole),ME-PULLEY,11.328732,Purchase Price,13.3433
+1069,f7281e3cb7,RM140,MS TUBE 100MM x 50MM x 4MM x 6M,MS TUBE,16.0,Purchase Price,16.0
+1070,f733ddfba5,FC271,DOOR GLASS TEMPERING CHARGE 8MM ,DOOR GLASS,1.5,Purchase Price,1.5
+1072,f753950531,E660,"LOP WITH ELEVATOR CALL FUNCTION 2 FLOOR BLUE BACKLIGHT WITH WHITE FIGURES PUSH BUTTON G+1 WITH LOCK, TYPE M402S ",LOP,9.837,Purchase Price,17.441
+1074,f7b50a0000,MK205,BST Elevator triangle lock with spring for landing door RIGHT,ME-PART ITEM,0.677952,Purchase Price,0.0
+1075,f7fd49353c,TL142,INSTRUMENT SCREW DRIVER SET 06 ,INSTRUMENT SCREW DRIVER,3.2,Purchase Price,3.2
+1078,f8d1f5e63a,AB197,MS 2 Panel Aluminium Base 40X120mm Center Opening for 800mm,ME-CENTER 800,1.155,Purchase Price,1.155
+1081,f94acc5c06,E346,Elevator Fire Switch,EL-GENERAL,2.73492,Purchase Price,0.0
+1084,f98e2dcabf,E254,Monarch Elevator Silver Push Button Square for COP (DB20) (Penthouse) P,EL-BUTTON,0.963,Purchase Price,0.0
+1085,f9b3c118d5,C157,SURGICAL DUST MASK,SURGICAL DUST MASK,1.15,Purchase Price,1.15
+1086,f9d717709a,C148,LOCK CYLINDER SN 54CM,LOCK CYLINDER,1.25,Purchase Price,1.25
+1087,f9f686f917,C149,MS ROUND HINGES 12MM,MS HINGES,0.135,Purchase Price,0.135
+1089,fa2982d172,C268,MAGNETIC CORE BIT (ANULAR CUTTER S-16MM),MAGNETIC CORE BIT,8.9,Purchase Price,8.9
+1091,fa73e9025b,FT147,"KS 2 Panel Landing Mechanism Fittings (bracket, hanger, Nut Bolts, Rod, Shoe, Hanger Bolt, Center Lock)",ME-FITTINGS,3.08,Purchase Price,3.08
+1092,fa7d41c2ab,E518,WECO Elevator Light Curtain Door Detector,EL-SENSOR,17.561268,Purchase Price,15.3538
+1095,fb8120ae89,MK543,Metal Counter Weight 104 (10.5X5cm) 1X46KG ,COUNTER WEIGHT,5.06,Purchase Price,5.06
+1096,fb9d9ed37c,E140,BST Elevator Silver Push Button for COP (A4N18839 19/5/6) (Basement) B,EL-BUTTON,1.872072,Purchase Price,0.0
+1098,fbd1287ae3,E213,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Fan) F",EL-BUTTON,1.563912,Purchase Price,0.0
+1099,fbeeecde70,AC264,G.I NUT M12,NUT BOLTS & WASHER,0.009706,Purchase Price,0.009706
+1100,fc6008872d,C261,THREAD BIT 6MM,THREAD BIT,2.8,Purchase Price,2.8
+1101,fc8db2703c,MK511,"NOZZLE FOR LASER MACHINE 1.2 DOUBLE D32X1.2MM, 120GJT0612 ",NOZZLE,1.213,Purchase Price,1.2128
+1102,fce5ede313,TL146,RACHIT SPANNER 17MM ,RACHIT SPANNER,3.25,Purchase Price,3.25
+1103,fd13ab21f0,C221,LACQUER THINNER 1USG (NATIONAL),LACQUER THINNER,4.2,Purchase Price,4.2
+1104,fd18063284,E232,"Elevator Silver LED+Push Button for COP (4+2 Wire) (A4J18225, SK94V-0) (Resturant) R",EL-BUTTON,1.563912,Purchase Price,0.0
+1106,fd5f8132bc,E252,Monarch Elevator Silver Push Button Square for COP (DB20) (Lock) L,EL-BUTTON,0.963,Purchase Price,0.0
+1108,fdf9694710,MK393,Cabin Handel DOUBLE Gold Mirror (1000mmX750X25mm)X2 pipe type HM202TJ,ME-CABIN,17.4872,Purchase Price,0.0
+1110,fe36d30a84,C358,ERASER DUSTER ,DUSTER,0.75,Purchase Price,0.75
+1112,fe737c22df,AC309,"WELDING BOLTS M3X20MM, 1X200PCS ",NUT BOLTS & WASHER,0.578,Purchase Price,0.5775
+1113,fed5aa7dd2,C143,BALL PEN,BALL PEN,0.075,Purchase Price,0.075
+1114,fed89774c8,MK537,"PVC Flooring YDS-06-7708, 20Mtr x 2Mtr",GENERAL,6.2,Purchase Price,0.0
+1116,ff72150ee6,C225,PAINT REMOVER 1LTR (GALAXY),PAINT REMOVER,2.3,Purchase Price,2.3
+1118,ff76cec702,AB216,KS 2 Panel Aluminium Base 40X120mm Center Opening for 800mm,ME-CENTER 800,1.155,Purchase Price,1.155
+1119,ff8b995fb6,C382,DASH POLISH ,POLISH,1.2,Purchase Price,1.2
+1121,ff97a801d4,E249,Monarch Elevator Silver Push Button Square for COP (DB20) (Floor) 9,EL-BUTTON,0.963,Purchase Price,0.0
+1122,ffa42cc2b1,AB209,KS 2 Panel Aluminium Base 40X50mm Left Opening for 800mm,ME-LEFT 800,1.54,Purchase Price,1.54
+1123,ffa8c09990,AS203,KS 2 Panel Aluminium Sill 50mm Center Opening for 800mm,ME-CENTER 800,2.695,Purchase Price,2.695
+1124,ffb8800f32,MK243,Elevator Deflection Pulley (Nylon) (240mm/110mm - 4 CoreX8mm-12) ( with Shaft 58mm/50mmX200mm) For MONA200 ,ME-PULLEY,14.472,Purchase Price,14.4722
